@@ -11,18 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects | Stay alive and spread awareness for COVID
 - ⚡ Fun fact: I love to game on PC and I am a very bad chef coz I hate cooking.
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-eight-silk.vercel.app/api/spotify.py" alt="Rutam21 Spotify Playing" width="350" />](https://open.spotify.com/user/31djyuztgrzv5hld5mbfcjiw7cdm)
-
-### Connect with me:
-
-[<img align="left" alt="rutamfromweb.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Gadget Surge | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RutamHere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rutam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -44,6 +32,19 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-eight-silk.vercel.app/api/spotify.py" alt="Rutam21 Spotify Playing" width="350" />](https://open.spotify.com/user/31djyuztgrzv5hld5mbfcjiw7cdm)
+
+### Connect with me:
+
+[<img align="left" alt="rutamfromweb.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Gadget Surge | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="RutamHere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rutam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 <details>
