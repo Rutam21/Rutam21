@@ -11,6 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects | Stay alive and spread awareness for COVID
 - ⚡ Fun fact: I love to game on PC and I am a very bad chef coz I hate cooking.
 
+<br />
 
 ### Languages and Tools:
 
@@ -45,6 +46,7 @@
 [<img align="left" alt="RutamHere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rutam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 <details>
