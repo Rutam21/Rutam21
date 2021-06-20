@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-rutam21.vercel.app/api/spotify-playing" alt="Rutam21 Spotify Playing" width="350" />](https://open.spotify.com/user/tHe FrEaK)
+[<img src="https://spotify-now-playing-rutam21.vercel.app/api/spotify-playing" alt="Rutam21 Spotify Playing" width="350" />](https://open.spotify.com/user/tHe%20FrEaK)
 
 ### Connect with me:
 
