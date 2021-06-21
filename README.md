@@ -11,6 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects | Stay alive and spread awareness for COVID
 - ⚡ Fun fact: I love to game on PC and I am a very bad chef coz I hate cooking.
 
+<br/>
 
 ### Languages and Tools:
 
