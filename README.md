@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Rutam21/Rutam21/pull/1) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
-2. 🎉 Merged PR [#1](https://github.com/Rutam21/rutam-portfolio/pull/1) in [Rutam21/rutam-portfolio](https://github.com/Rutam21/rutam-portfolio)
+1. 🎉 Merged PR [#1](https://github.com/Rutam21/ThatsMyCV/pull/1) in [Rutam21/ThatsMyCV](https://github.com/Rutam21/ThatsMyCV)
+2. 🎉 Merged PR [#1](https://github.com/Rutam21/Rutam21/pull/1) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
 <!--END_SECTION:activity-->
 
 </details>
