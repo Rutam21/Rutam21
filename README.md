@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4842](https://github.com/mattermost/docs/pull/4842) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#4840](https://github.com/mattermost/docs/pull/4840) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 💪 Opened PR [#4845](https://github.com/mattermost/docs/pull/4845) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#4844](https://github.com/mattermost/docs/pull/4844) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 </details>
