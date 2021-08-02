@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rutam21/ThatsMyCV/pull/2) in [Rutam21/ThatsMyCV](https://github.com/Rutam21/ThatsMyCV)
-2. 🎉 Merged PR [#1](https://github.com/Rutam21/ThatsMyCV/pull/1) in [Rutam21/ThatsMyCV](https://github.com/Rutam21/ThatsMyCV)
+1. 💪 Opened PR [#4833](https://github.com/mattermost/docs/pull/4833) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#4832](https://github.com/mattermost/docs/pull/4832) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 </details>
