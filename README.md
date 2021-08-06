@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#885](https://github.com/mattermost/mattermost-developer-documentation/issues/885) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 🗣 Commented on [#885](https://github.com/mattermost/mattermost-developer-documentation/issues/885) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+1. 🗣 Commented on [#888](https://github.com/mattermost/mattermost-developer-documentation/issues/888) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 💪 Opened PR [#888](https://github.com/mattermost/mattermost-developer-documentation/pull/888) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 </details>
