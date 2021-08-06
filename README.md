@@ -55,7 +55,7 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#885](https://github.com/mattermost/mattermost-developer-documentation/issues/885) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 💪 Opened PR [#885](https://github.com/mattermost/mattermost-developer-documentation/pull/885) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 🗣 Commented on [#885](https://github.com/mattermost/mattermost-developer-documentation/issues/885) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 </details>
