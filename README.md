@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3153](https://github.com/Kong/docs.konghq.com/issues/3153) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 🗣 Commented on [#3205](https://github.com/Kong/docs.konghq.com/issues/3205) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
+1. 🗣 Commented on [#764](https://github.com/LoginRadius/engineering-portal/issues/764) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+2. 🗣 Commented on [#3153](https://github.com/Kong/docs.konghq.com/issues/3153) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 </details>
