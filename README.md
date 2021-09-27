@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3248](https://github.com/Kong/docs.konghq.com/issues/3248) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 🗣 Commented on [#690](https://github.com/milvus-io/milvus-docs/issues/690) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
+1. 🗣 Commented on [#3153](https://github.com/Kong/docs.konghq.com/issues/3153) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
+2. 🗣 Commented on [#3248](https://github.com/Kong/docs.konghq.com/issues/3248) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 </details>
