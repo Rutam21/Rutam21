@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3270](https://github.com/Kong/docs.konghq.com/pull/3270) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 🗣 Commented on [#3153](https://github.com/Kong/docs.konghq.com/issues/3153) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
+1. 🗣 Commented on [#3270](https://github.com/Kong/docs.konghq.com/issues/3270) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
+2. 💪 Opened PR [#3270](https://github.com/Kong/docs.konghq.com/pull/3270) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 </details>
