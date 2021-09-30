@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#660](https://github.com/datenanfragen/website/issues/660) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. 🗣 Commented on [#1782](https://github.com/appwrite/appwrite/issues/1782) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#450](https://github.com/datenanfragen/website/issues/450) in [datenanfragen/website](https://github.com/datenanfragen/website)
+2. 🗣 Commented on [#450](https://github.com/datenanfragen/website/issues/450) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 </details>
