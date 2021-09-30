@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3248](https://github.com/Kong/docs.konghq.com/issues/3248) in [Kong/docs.konghq.com](https://github.com/Kong/docs.konghq.com)
-2. 🗣 Commented on [#4709](https://github.com/mattermost/docs/issues/4709) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#1757](https://github.com/appwrite/appwrite/issues/1757) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#1708](https://github.com/appwrite/appwrite/issues/1708) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 </details>
