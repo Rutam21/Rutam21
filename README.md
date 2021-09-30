@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1757](https://github.com/appwrite/appwrite/issues/1757) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#1708](https://github.com/appwrite/appwrite/issues/1708) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#1782](https://github.com/appwrite/appwrite/issues/1782) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#1782](https://github.com/appwrite/appwrite/issues/1782) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 </details>
