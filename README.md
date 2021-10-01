@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7868](https://github.com/appsmithorg/appsmith/issues/7868) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+1. 🗣 Commented on [#7301](https://github.com/appsmithorg/appsmith/issues/7301) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 2. 🗣 Commented on [#7868](https://github.com/appsmithorg/appsmith/issues/7868) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 <!--END_SECTION:activity-->
 
