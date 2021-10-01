@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/vinitshahdeo/SimpleBio/issues/131) in [vinitshahdeo/SimpleBio](https://github.com/vinitshahdeo/SimpleBio)
-2. 💪 Opened PR [#131](https://github.com/vinitshahdeo/SimpleBio/pull/131) in [vinitshahdeo/SimpleBio](https://github.com/vinitshahdeo/SimpleBio)
+1. 💪 Opened PR [#1827](https://github.com/appwrite/appwrite/pull/1827) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#131](https://github.com/vinitshahdeo/SimpleBio/issues/131) in [vinitshahdeo/SimpleBio](https://github.com/vinitshahdeo/SimpleBio)
 <!--END_SECTION:activity-->
 
 </details>
