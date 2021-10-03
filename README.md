@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1773](https://github.com/appwrite/appwrite/issues/1773) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#690](https://github.com/milvus-io/milvus-docs/issues/690) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
+1. 🗣 Commented on [#8](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python/issues/8) in [Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python)
+2. 💪 Opened PR [#8](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python/pull/8) in [Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python)
 <!--END_SECTION:activity-->
 
 </details>
