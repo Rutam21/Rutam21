@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1895](https://github.com/appwrite/appwrite/pull/1895) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#19](https://github.com/appwrite/demo-todo-with-angular/issues/19) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+1. 🗣 Commented on [#7](https://github.com/meilisearch/meilisearch-gcp/issues/7) in [meilisearch/meilisearch-gcp](https://github.com/meilisearch/meilisearch-gcp)
+2. 💪 Opened PR [#1895](https://github.com/appwrite/appwrite/pull/1895) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 </details>
