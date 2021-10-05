@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python/pull/10) in [Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python)
-2. 🗣 Commented on [#7](https://github.com/meilisearch/meilisearch-gcp/issues/7) in [meilisearch/meilisearch-gcp](https://github.com/meilisearch/meilisearch-gcp)
+1. 🗣 Commented on [#2324](https://github.com/archivesspace/archivesspace/issues/2324) in [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace)
+2. 💪 Opened PR [#10](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python/pull/10) in [Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python)
 <!--END_SECTION:activity-->
 
 </details>
