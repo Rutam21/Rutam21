@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#764](https://github.com/LoginRadius/engineering-portal/issues/764) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-2. 🗣 Commented on [#8](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python/issues/8) in [Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python](https://github.com/Ankit12453/Hacktoberfest-Virtual-Assistant-Using-Python)
+1. 🗣 Commented on [#19](https://github.com/appwrite/demo-todo-with-angular/issues/19) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
+2. 💪 Opened PR [#19](https://github.com/appwrite/demo-todo-with-angular/pull/19) in [appwrite/demo-todo-with-angular](https://github.com/appwrite/demo-todo-with-angular)
 <!--END_SECTION:activity-->
 
 </details>
