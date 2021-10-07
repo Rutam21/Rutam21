@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#764](https://github.com/LoginRadius/engineering-portal/issues/764) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-2. 🗣 Commented on [#7301](https://github.com/appsmithorg/appsmith/issues/7301) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+1. 🗣 Commented on [#2077](https://github.com/appwrite/appwrite/issues/2077) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#764](https://github.com/LoginRadius/engineering-portal/issues/764) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
 <!--END_SECTION:activity-->
 
 </details>
