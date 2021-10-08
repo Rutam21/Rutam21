@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rutam21/HackToons/pull/2) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
-2. 🗣 Commented on [#2](https://github.com/Rutam21/HackToons/issues/2) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+1. 🎉 Merged PR [#2](https://github.com/Rutam21/Gatsby-WP-Demo/pull/2) in [Rutam21/Gatsby-WP-Demo](https://github.com/Rutam21/Gatsby-WP-Demo)
+2. 🗣 Commented on [#2](https://github.com/Rutam21/Gatsby-WP-Demo/issues/2) in [Rutam21/Gatsby-WP-Demo](https://github.com/Rutam21/Gatsby-WP-Demo)
 <!--END_SECTION:activity-->
 
 </details>
