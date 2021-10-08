@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rutam21/Gatsby-WP-Demo/pull/2) in [Rutam21/Gatsby-WP-Demo](https://github.com/Rutam21/Gatsby-WP-Demo)
-2. 🗣 Commented on [#2](https://github.com/Rutam21/Gatsby-WP-Demo/issues/2) in [Rutam21/Gatsby-WP-Demo](https://github.com/Rutam21/Gatsby-WP-Demo)
+1. 🗣 Commented on [#9](https://github.com/utopia-php/domains/issues/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
+2. 💪 Opened PR [#9](https://github.com/utopia-php/domains/pull/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
 <!--END_SECTION:activity-->
 
 </details>
