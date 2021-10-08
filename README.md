@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2065](https://github.com/appwrite/appwrite/issues/2065) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#2077](https://github.com/appwrite/appwrite/issues/2077) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🎉 Merged PR [#2](https://github.com/Rutam21/HackToons/pull/2) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+2. 🗣 Commented on [#2](https://github.com/Rutam21/HackToons/issues/2) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
 <!--END_SECTION:activity-->
 
 </details>
