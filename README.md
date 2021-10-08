@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/utopia-php/domains/issues/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
-2. 💪 Opened PR [#9](https://github.com/utopia-php/domains/pull/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
+1. 💪 Opened PR [#819](https://github.com/LoginRadius/engineering-portal/pull/819) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+2. 🗣 Commented on [#9](https://github.com/utopia-php/domains/issues/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
 <!--END_SECTION:activity-->
 
 </details>
