@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#819](https://github.com/LoginRadius/engineering-portal/pull/819) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
-2. 🗣 Commented on [#9](https://github.com/utopia-php/domains/issues/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
+1. 🗣 Commented on [#743](https://github.com/milvus-io/milvus-docs/issues/743) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
+2. 🗣 Commented on [#742](https://github.com/milvus-io/milvus-docs/issues/742) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
 <!--END_SECTION:activity-->
 
 </details>
