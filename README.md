@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#804](https://github.com/milvus-io/milvus-docs/issues/804) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
-2. 💪 Opened PR [#804](https://github.com/milvus-io/milvus-docs/pull/804) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
+1. 🗣 Commented on [#2181](https://github.com/appwrite/appwrite/issues/2181) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. ❗️ Opened issue [#2181](https://github.com/appwrite/appwrite/issues/2181) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 </details>
