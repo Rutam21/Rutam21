@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#824](https://github.com/milvus-io/milvus-docs/issues/824) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
-2. 💪 Opened PR [#824](https://github.com/milvus-io/milvus-docs/pull/824) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
+1. 🗣 Commented on [#819](https://github.com/LoginRadius/engineering-portal/issues/819) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+2. 🗣 Commented on [#824](https://github.com/milvus-io/milvus-docs/issues/824) in [milvus-io/milvus-docs](https://github.com/milvus-io/milvus-docs)
 <!--END_SECTION:activity-->
 
 </details>
