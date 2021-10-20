@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2262](https://github.com/appwrite/appwrite/issues/2262) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#819](https://github.com/LoginRadius/engineering-portal/issues/819) in [LoginRadius/engineering-portal](https://github.com/LoginRadius/engineering-portal)
+1. 💪 Opened PR [#182](https://github.com/appwrite/awesome-appwrite/pull/182) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+2. 🗣 Commented on [#2262](https://github.com/appwrite/appwrite/issues/2262) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 </details>
