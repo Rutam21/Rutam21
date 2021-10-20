@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/utopia-php/domains/issues/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
-2. 🗣 Commented on [#182](https://github.com/appwrite/awesome-appwrite/issues/182) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+1. 🗣 Commented on [#1782](https://github.com/appwrite/appwrite/issues/1782) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#9](https://github.com/utopia-php/domains/issues/9) in [utopia-php/domains](https://github.com/utopia-php/domains)
 <!--END_SECTION:activity-->
 
 </details>
