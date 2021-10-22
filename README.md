@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#574](https://github.com/questdb/questdb.io/issues/574) in [questdb/questdb.io](https://github.com/questdb/questdb.io)
-2. 🗣 Commented on [#1782](https://github.com/appwrite/appwrite/issues/1782) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#1138](https://github.com/meilisearch/documentation/issues/1138) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
+2. 🗣 Commented on [#574](https://github.com/questdb/questdb.io/issues/574) in [questdb/questdb.io](https://github.com/questdb/questdb.io)
 <!--END_SECTION:activity-->
 
 </details>
