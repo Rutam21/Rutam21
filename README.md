@@ -55,7 +55,7 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1138](https://github.com/meilisearch/documentation/issues/1138) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
-2. 🗣 Commented on [#574](https://github.com/questdb/questdb.io/issues/574) in [questdb/questdb.io](https://github.com/questdb/questdb.io)
+2. 🗣 Commented on [#1138](https://github.com/meilisearch/documentation/issues/1138) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
 <!--END_SECTION:activity-->
 
 </details>
