@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1138](https://github.com/meilisearch/documentation/issues/1138) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
-2. 🗣 Commented on [#1138](https://github.com/meilisearch/documentation/issues/1138) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
+1. 🗣 Commented on [#285](https://github.com/sourcegraph/learn/issues/285) in [sourcegraph/learn](https://github.com/sourcegraph/learn)
+2. 🗣 Commented on [#241](https://github.com/sourcegraph/learn/issues/241) in [sourcegraph/learn](https://github.com/sourcegraph/learn)
 <!--END_SECTION:activity-->
 
 </details>
