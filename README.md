@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1304](https://github.com/ToolJet/ToolJet/issues/1304) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. ❗️ Opened issue [#1304](https://github.com/ToolJet/ToolJet/issues/1304) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. 🗣 Commented on [#33712](https://github.com/gatsbyjs/gatsby/issues/33712) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+2. 💪 Opened PR [#33712](https://github.com/gatsbyjs/gatsby/pull/33712) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
 </details>
