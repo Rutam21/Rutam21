@@ -54,8 +54,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33712](https://github.com/gatsbyjs/gatsby/issues/33712) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 💪 Opened PR [#33712](https://github.com/gatsbyjs/gatsby/pull/33712) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+1. 🗣 Commented on [#1](https://github.com/gatsbyjs/gatsby-hi/issues/1) in [gatsbyjs/gatsby-hi](https://github.com/gatsbyjs/gatsby-hi)
+2. 🗣 Commented on [#33712](https://github.com/gatsbyjs/gatsby/issues/33712) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
 </details>
