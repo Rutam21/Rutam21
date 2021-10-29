@@ -63,7 +63,7 @@
 
 
   
-[website]: https://rutamfromweb.tech/
+[website]: https://webportfoliomain.gatsbyjs.io/
 [twitter]: https://twitter.com/RutamHere
 [youtube]: https://www.youtube.com/channel/UC6ltq-zwDVCdezOTwHkLm1Q
 [linkedin]: https://www.linkedin.com/in/rutam-prita-mishra-a0a5b4171/
