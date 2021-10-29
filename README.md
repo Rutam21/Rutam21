@@ -14,7 +14,7 @@
 
 <br/>
 
-### Languages and Tools:<a href="https://app.daily.dev/DailyDevTips"><img align="right" height="450" src="https://github.com/Rutam21/Rutam21/blob/main/devcard.svg" width="400" alt="Rutam's Dev Card"/></a>
+### Languages and Tools:<a href="https://rutamfromweb.tech"><img align="right" height="450" src="https://github.com/Rutam21/Rutam21/blob/main/devcard.svg" width="400" alt="Rutam's Dev Card"/></a>
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
