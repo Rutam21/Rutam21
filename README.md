@@ -6,7 +6,7 @@
 [<img align="right" alt="Rutam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[![Website](https://img.shields.io/website?label=rutamfromweb.tech&style=for-the-badge&url=https%3A%2F%2Frutamfromweb.tech)](https://rutamfromweb.tech)
+[![Website](https://img.shields.io/website?label=rutamfromweb.tech&style=for-the-badge&url=https%3A%2F%2Fwebportfoliomain.gatsbyjs.io)](https://webportfoliomain.gatsbyjs.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RutamHere?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RutamHere)
 <br/>
 <br/>
