@@ -1,5 +1,11 @@
 ### Hi there, I'm Rutam - aka [tHE_FreAk][website] 👋
 
+[<img align="right" alt="rutamfromweb.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="right" alt="Gadget Surge | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="right" alt="RutamHere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="right" alt="Rutam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 [![Website](https://img.shields.io/website?label=rutamfromweb.tech&style=for-the-badge&url=https%3A%2F%2Frutamfromweb.tech)](https://rutamfromweb.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RutamHere?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RutamHere)
 <br/>
@@ -14,7 +20,7 @@
 
 <br/>
 
-### Languages and Tools:<a href="https://rutamfromweb.tech"><img align="right" height="450" src="https://github.com/Rutam21/Rutam21/blob/main/devcard.svg" width="400" alt="Rutam's Dev Card"/></a>
+### Languages and Tools <a href="https://rutamfromweb.tech"><img align="right" height="450" src="https://github.com/Rutam21/Rutam21/blob/main/devcard.svg" width="400" alt="Rutam's Dev Card"/></a>
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
@@ -40,33 +46,23 @@
 
 [<img src="https://spotify-now-playing-eight-silk.vercel.app/api/spotify.py" alt="Rutam21 Spotify Playing" width="350" />](https://open.spotify.com/user/31djyuztgrzv5hld5mbfcjiw7cdm)
 
-### Connect with me:
-
-[<img align="left" alt="rutamfromweb.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Gadget Surge | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RutamHere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rutam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### Recent GitHub Activity 
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/gatsbyjs/gatsby-hi/issues/1) in [gatsbyjs/gatsby-hi](https://github.com/gatsbyjs/gatsby-hi)
 2. 🗣 Commented on [#33712](https://github.com/gatsbyjs/gatsby/issues/33712) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
-</details>
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats 
 
-  <img align="left" alt="Rutam21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rutam21&show_icons=true&theme=radical" />
+<img align="left" alt="Rutam21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rutam21&show_icons=true&theme=radical" /> 
 
-</details>
 
+  
 [website]: https://rutamfromweb.tech/
 [twitter]: https://twitter.com/RutamHere
 [youtube]: https://www.youtube.com/channel/UC6ltq-zwDVCdezOTwHkLm1Q
