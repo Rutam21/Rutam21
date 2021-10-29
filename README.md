@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rutam21/Rutam21/pull/2) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
-2. 🗣 Commented on [#1](https://github.com/gatsbyjs/gatsby-hi/issues/1) in [gatsbyjs/gatsby-hi](https://github.com/gatsbyjs/gatsby-hi)
+1. 💪 Opened PR [#33737](https://github.com/gatsbyjs/gatsby/pull/33737) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+2. 🎉 Merged PR [#2](https://github.com/Rutam21/Rutam21/pull/2) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
 <!--END_SECTION:activity-->
 
 <br />
