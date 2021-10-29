@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33737](https://github.com/gatsbyjs/gatsby/pull/33737) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 🎉 Merged PR [#2](https://github.com/Rutam21/Rutam21/pull/2) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
+1. 🗣 Commented on [#13989](https://github.com/kubernetes/website/issues/13989) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#33737](https://github.com/gatsbyjs/gatsby/pull/33737) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
