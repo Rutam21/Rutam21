@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#814](https://github.com/datenanfragen/website/pull/814) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. 🗣 Commented on [#813](https://github.com/datenanfragen/website/issues/813) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 🗣 Commented on [#831](https://github.com/devtron-labs/devtron/issues/831) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+2. 🗣 Commented on [#832](https://github.com/devtron-labs/devtron/issues/832) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
 <!--END_SECTION:activity-->
 
 <br />
