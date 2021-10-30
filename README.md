@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/legesher/legesher/issues/94) in [legesher/legesher](https://github.com/legesher/legesher)
-2. ❗️ Opened issue [#94](https://github.com/legesher/legesher/issues/94) in [legesher/legesher](https://github.com/legesher/legesher)
+1. 🗣 Commented on [#95](https://github.com/legesher/legesher/issues/95) in [legesher/legesher](https://github.com/legesher/legesher)
+2. 💪 Opened PR [#95](https://github.com/legesher/legesher/pull/95) in [legesher/legesher](https://github.com/legesher/legesher)
 <!--END_SECTION:activity-->
 
 <br />
