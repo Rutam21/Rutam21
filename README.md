@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#813](https://github.com/datenanfragen/website/issues/813) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. 💪 Opened PR [#813](https://github.com/datenanfragen/website/pull/813) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 💪 Opened PR [#814](https://github.com/datenanfragen/website/pull/814) in [datenanfragen/website](https://github.com/datenanfragen/website)
+2. 🗣 Commented on [#813](https://github.com/datenanfragen/website/issues/813) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 <br />
