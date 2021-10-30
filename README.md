@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1856](https://github.com/amplication/amplication/issues/1856) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 🗣 Commented on [#1856](https://github.com/amplication/amplication/issues/1856) in [amplication/amplication](https://github.com/amplication/amplication)
+1. 🗣 Commented on [#94](https://github.com/legesher/legesher/issues/94) in [legesher/legesher](https://github.com/legesher/legesher)
+2. ❗️ Opened issue [#94](https://github.com/legesher/legesher/issues/94) in [legesher/legesher](https://github.com/legesher/legesher)
 <!--END_SECTION:activity-->
 
 <br />
