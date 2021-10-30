@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13989](https://github.com/kubernetes/website/issues/13989) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#33737](https://github.com/gatsbyjs/gatsby/pull/33737) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+1. 🗣 Commented on [#1855](https://github.com/amplication/amplication/issues/1855) in [amplication/amplication](https://github.com/amplication/amplication)
+2. ❗️ Opened issue [#1855](https://github.com/amplication/amplication/issues/1855) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
