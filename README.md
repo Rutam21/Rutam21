@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/amplication/site/issues/146) in [amplication/site](https://github.com/amplication/site)
-2. ❗️ Opened issue [#146](https://github.com/amplication/site/issues/146) in [amplication/site](https://github.com/amplication/site)
+1. 🗣 Commented on [#815](https://github.com/datenanfragen/website/issues/815) in [datenanfragen/website](https://github.com/datenanfragen/website)
+2. 💪 Opened PR [#815](https://github.com/datenanfragen/website/pull/815) in [datenanfragen/website](https://github.com/datenanfragen/website)
 <!--END_SECTION:activity-->
 
 <br />
