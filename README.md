@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2211](https://github.com/grafana/k6/issues/2211) in [grafana/k6](https://github.com/grafana/k6)
-2. ❗️ Opened issue [#2211](https://github.com/grafana/k6/issues/2211) in [grafana/k6](https://github.com/grafana/k6)
+1. 🗣 Commented on [#120](https://github.com/openebs/dynamic-localpv-provisioner/issues/120) in [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner)
+2. ❗️ Opened issue [#120](https://github.com/openebs/dynamic-localpv-provisioner/issues/120) in [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 
 <br />
