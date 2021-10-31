@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1867](https://github.com/amplication/amplication/pull/1867) in [amplication/amplication](https://github.com/amplication/amplication)
-2. ❗️ Opened issue [#1862](https://github.com/amplication/amplication/issues/1862) in [amplication/amplication](https://github.com/amplication/amplication)
+1. 💪 Opened PR [#145](https://github.com/amplication/site/pull/145) in [amplication/site](https://github.com/amplication/site)
+2. 💪 Opened PR [#144](https://github.com/amplication/site/pull/144) in [amplication/site](https://github.com/amplication/site)
 <!--END_SECTION:activity-->
 
 <br />
