@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/openebs/dynamic-localpv-provisioner/issues/121) in [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner)
-2. 💪 Opened PR [#121](https://github.com/openebs/dynamic-localpv-provisioner/pull/121) in [openebs/dynamic-localpv-provisioner](https://github.com/openebs/dynamic-localpv-provisioner)
+1. 🗣 Commented on [#701](https://github.com/medusajs/medusa/issues/701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ❗️ Opened issue [#701](https://github.com/medusajs/medusa/issues/701) in [medusajs/medusa](https://github.com/medusajs/medusa)
 <!--END_SECTION:activity-->
 
 <br />
