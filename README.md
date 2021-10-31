@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#831](https://github.com/devtron-labs/devtron/issues/831) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-2. 🗣 Commented on [#832](https://github.com/devtron-labs/devtron/issues/832) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+1. 🗣 Commented on [#1380](https://github.com/earthly/earthly/issues/1380) in [earthly/earthly](https://github.com/earthly/earthly)
+2. 💪 Opened PR [#1380](https://github.com/earthly/earthly/pull/1380) in [earthly/earthly](https://github.com/earthly/earthly)
 <!--END_SECTION:activity-->
 
 <br />
