@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1862](https://github.com/amplication/amplication/issues/1862) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 🗣 Commented on [#702](https://github.com/medusajs/medusa/issues/702) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 💪 Opened PR [#1867](https://github.com/amplication/amplication/pull/1867) in [amplication/amplication](https://github.com/amplication/amplication)
+2. ❗️ Opened issue [#1862](https://github.com/amplication/amplication/issues/1862) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
