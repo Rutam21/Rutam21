@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1380](https://github.com/earthly/earthly/issues/1380) in [earthly/earthly](https://github.com/earthly/earthly)
-2. 💪 Opened PR [#1380](https://github.com/earthly/earthly/pull/1380) in [earthly/earthly](https://github.com/earthly/earthly)
+1. 🗣 Commented on [#2211](https://github.com/grafana/k6/issues/2211) in [grafana/k6](https://github.com/grafana/k6)
+2. ❗️ Opened issue [#2211](https://github.com/grafana/k6/issues/2211) in [grafana/k6](https://github.com/grafana/k6)
 <!--END_SECTION:activity-->
 
 <br />
