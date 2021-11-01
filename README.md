@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2214](https://github.com/grafana/k6/issues/2214) in [grafana/k6](https://github.com/grafana/k6)
-2. 💪 Opened PR [#2214](https://github.com/grafana/k6/pull/2214) in [grafana/k6](https://github.com/grafana/k6)
+1. ❗️ Opened issue [#465](https://github.com/grafana/k6-docs/issues/465) in [grafana/k6-docs](https://github.com/grafana/k6-docs)
+2. 🗣 Commented on [#2214](https://github.com/grafana/k6/issues/2214) in [grafana/k6](https://github.com/grafana/k6)
 <!--END_SECTION:activity-->
 
 <br />
