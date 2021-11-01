@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#815](https://github.com/datenanfragen/website/issues/815) in [datenanfragen/website](https://github.com/datenanfragen/website)
-2. 💪 Opened PR [#815](https://github.com/datenanfragen/website/pull/815) in [datenanfragen/website](https://github.com/datenanfragen/website)
+1. 🗣 Commented on [#2214](https://github.com/grafana/k6/issues/2214) in [grafana/k6](https://github.com/grafana/k6)
+2. 💪 Opened PR [#2214](https://github.com/grafana/k6/pull/2214) in [grafana/k6](https://github.com/grafana/k6)
 <!--END_SECTION:activity-->
 
 <br />
