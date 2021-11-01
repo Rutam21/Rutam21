@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#704](https://github.com/medusajs/medusa/issues/704) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#467](https://github.com/grafana/k6-docs/issues/467) in [grafana/k6-docs](https://github.com/grafana/k6-docs)
+1. 🗣 Commented on [#467](https://github.com/grafana/k6-docs/issues/467) in [grafana/k6-docs](https://github.com/grafana/k6-docs)
+2. 💪 Opened PR [#705](https://github.com/medusajs/medusa/pull/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
 <!--END_SECTION:activity-->
 
 <br />
