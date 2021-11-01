@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5606](https://github.com/NativeScript/nativescript-cli/issues/5606) in [NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli)
-2. 🗣 Commented on [#467](https://github.com/grafana/k6-docs/issues/467) in [grafana/k6-docs](https://github.com/grafana/k6-docs)
+1. 🗣 Commented on [#705](https://github.com/medusajs/medusa/issues/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ❗️ Opened issue [#5606](https://github.com/NativeScript/nativescript-cli/issues/5606) in [NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli)
 <!--END_SECTION:activity-->
 
 <br />
