@@ -52,7 +52,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#705](https://github.com/medusajs/medusa/issues/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. ❗️ Opened issue [#5606](https://github.com/NativeScript/nativescript-cli/issues/5606) in [NativeScript/nativescript-cli](https://github.com/NativeScript/nativescript-cli)
+2. 🗣 Commented on [#705](https://github.com/medusajs/medusa/issues/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
 <!--END_SECTION:activity-->
 
 <br />
