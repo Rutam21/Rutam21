@@ -51,7 +51,7 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#705](https://github.com/medusajs/medusa/issues/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#1928](https://github.com/mindsdb/mindsdb/issues/1928) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 2. 🗣 Commented on [#705](https://github.com/medusajs/medusa/issues/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
 <!--END_SECTION:activity-->
 
