@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1928](https://github.com/mindsdb/mindsdb/issues/1928) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#705](https://github.com/medusajs/medusa/issues/705) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🎉 Merged PR [#2](https://github.com/Rutam21/amplication/pull/2) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
+2. 🎉 Merged PR [#2](https://github.com/Rutam21/docs.konghq.com/pull/2) in [Rutam21/docs.konghq.com](https://github.com/Rutam21/docs.konghq.com)
 <!--END_SECTION:activity-->
 
 <br />
