@@ -51,7 +51,7 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rutam21/devtron/pull/2) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
+1. 🗣 Commented on [#4923](https://github.com/mattermost/docs/issues/4923) in [mattermost/docs](https://github.com/mattermost/docs)
 2. 🎉 Merged PR [#2](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/2) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 
