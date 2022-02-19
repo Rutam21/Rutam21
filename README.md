@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4923](https://github.com/mattermost/docs/issues/4923) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🎉 Merged PR [#2](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/2) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 💪 Opened PR [#5431](https://github.com/mattermost/docs/pull/5431) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#4923](https://github.com/mattermost/docs/issues/4923) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 
 <br />
