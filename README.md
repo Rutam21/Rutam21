@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5431](https://github.com/mattermost/docs/issues/5431) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#5431](https://github.com/mattermost/docs/pull/5431) in [mattermost/docs](https://github.com/mattermost/docs)
+1. ❗️ Opened issue [#2343](https://github.com/amplication/amplication/issues/2343) in [amplication/amplication](https://github.com/amplication/amplication)
+2. 🗣 Commented on [#2342](https://github.com/amplication/amplication/issues/2342) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
