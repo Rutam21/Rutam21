@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2343](https://github.com/amplication/amplication/issues/2343) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 🗣 Commented on [#2342](https://github.com/amplication/amplication/issues/2342) in [amplication/amplication](https://github.com/amplication/amplication)
+1. 🗣 Commented on [#1447](https://github.com/meilisearch/documentation/issues/1447) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
+2. ❗️ Opened issue [#2343](https://github.com/amplication/amplication/issues/2343) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
