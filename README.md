@@ -52,7 +52,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#205](https://github.com/mindsdb/mindsdb-docs/issues/205) in [mindsdb/mindsdb-docs](https://github.com/mindsdb/mindsdb-docs)
-2. 💪 Opened PR [#205](https://github.com/mindsdb/mindsdb-docs/pull/205) in [mindsdb/mindsdb-docs](https://github.com/mindsdb/mindsdb-docs)
+2. 🗣 Commented on [#1488](https://github.com/meilisearch/documentation/issues/1488) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
 <!--END_SECTION:activity-->
 
 <br />
