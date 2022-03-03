@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/mindsdb/mindsdb-docs/issues/205) in [mindsdb/mindsdb-docs](https://github.com/mindsdb/mindsdb-docs)
-2. 🗣 Commented on [#1488](https://github.com/meilisearch/documentation/issues/1488) in [meilisearch/documentation](https://github.com/meilisearch/documentation)
+1. 💪 Opened PR [#2034](https://github.com/mindsdb/mindsdb/pull/2034) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#205](https://github.com/mindsdb/mindsdb-docs/issues/205) in [mindsdb/mindsdb-docs](https://github.com/mindsdb/mindsdb-docs)
 <!--END_SECTION:activity-->
 
 <br />
