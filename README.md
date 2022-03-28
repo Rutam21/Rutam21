@@ -51,7 +51,7 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2034](https://github.com/mindsdb/mindsdb/pull/2034) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❌ Closed PR [#1](https://github.com/Rutam21/Vercel-Image-Gallery/pull/1) in [Rutam21/Vercel-Image-Gallery](https://github.com/Rutam21/Vercel-Image-Gallery)
 2. 🗣 Commented on [#205](https://github.com/mindsdb/mindsdb-docs/issues/205) in [mindsdb/mindsdb-docs](https://github.com/mindsdb/mindsdb-docs)
 <!--END_SECTION:activity-->
 
