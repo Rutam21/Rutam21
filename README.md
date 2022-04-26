@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/16) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
-2. 💪 Opened PR [#9](https://github.com/Rutam21/opni/pull/9) in [Rutam21/opni](https://github.com/Rutam21/opni)
+1. 💪 Opened PR [#25](https://github.com/Rutam21/chaos-mesh/pull/25) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
+2. 💪 Opened PR [#16](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/16) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 
 <br />
