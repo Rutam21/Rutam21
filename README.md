@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Rutam21/medusa/pull/31) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#10](https://github.com/Rutam21/earthly/pull/10) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+1. 💪 Opened PR [#25](https://github.com/Rutam21/devtron/pull/25) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
+2. 💪 Opened PR [#31](https://github.com/Rutam21/medusa/pull/31) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 
 <br />
