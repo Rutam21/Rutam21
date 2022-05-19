@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/Rutam21/devtron/pull/29) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
-2. 💪 Opened PR [#9](https://github.com/Rutam21/gatsby-starter-wordpress/pull/9) in [Rutam21/gatsby-starter-wordpress](https://github.com/Rutam21/gatsby-starter-wordpress)
+1. 💪 Opened PR [#33](https://github.com/Rutam21/chaos-mesh/pull/33) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
+2. 💪 Opened PR [#29](https://github.com/Rutam21/devtron/pull/29) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
 <!--END_SECTION:activity-->
 
 <br />
