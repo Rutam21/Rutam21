@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Rutam21/earthly/pull/12) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#29](https://github.com/Rutam21/amplication/pull/29) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
+1. 💪 Opened PR [#212](https://github.com/Rutam21/gatsby/pull/212) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#12](https://github.com/Rutam21/earthly/pull/12) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 
 <br />
