@@ -52,7 +52,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2294](https://github.com/mindsdb/mindsdb/issues/2294) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 💪 Opened PR [#2294](https://github.com/mindsdb/mindsdb/pull/2294) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#2294](https://github.com/mindsdb/mindsdb/issues/2294) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
