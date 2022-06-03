@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/Rutam21/amplication/pull/30) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
-2. 💪 Opened PR [#31](https://github.com/Rutam21/devtron/pull/31) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
+1. 💪 Opened PR [#10](https://github.com/Rutam21/opni/pull/10) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 💪 Opened PR [#30](https://github.com/Rutam21/amplication/pull/30) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
 <!--END_SECTION:activity-->
 
 <br />
