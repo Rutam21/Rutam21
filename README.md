@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Rutam21/opni/pull/11) in [Rutam21/opni](https://github.com/Rutam21/opni)
-2. 🗣 Commented on [#2294](https://github.com/mindsdb/mindsdb/issues/2294) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#19](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/19) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+2. 💪 Opened PR [#11](https://github.com/Rutam21/opni/pull/11) in [Rutam21/opni](https://github.com/Rutam21/opni)
 <!--END_SECTION:activity-->
 
 <br />
