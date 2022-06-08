@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Rutam21/gatsby-starter-wordpress/pull/11) in [Rutam21/gatsby-starter-wordpress](https://github.com/Rutam21/gatsby-starter-wordpress)
-2. 💪 Opened PR [#261](https://github.com/Rutam21/gatsby/pull/261) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#11](https://github.com/Rutam21/demo/pull/11) in [Rutam21/demo](https://github.com/Rutam21/demo)
+2. 💪 Opened PR [#262](https://github.com/Rutam21/gatsby/pull/262) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
