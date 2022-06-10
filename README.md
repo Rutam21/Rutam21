@@ -51,7 +51,7 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2052](https://github.com/mindsdb/mindsdb/issues/2052) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#12](https://github.com/Rutam21/opni/pull/12) in [Rutam21/opni](https://github.com/Rutam21/opni)
 2. 🗣 Commented on [#2052](https://github.com/mindsdb/mindsdb/issues/2052) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
