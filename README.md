@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/Rutam21/opni/pull/13) in [Rutam21/opni](https://github.com/Rutam21/opni)
-2. ❗️ Opened issue [#2349](https://github.com/mindsdb/mindsdb/issues/2349) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#2354](https://github.com/mindsdb/mindsdb/issues/2354) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#13](https://github.com/Rutam21/opni/pull/13) in [Rutam21/opni](https://github.com/Rutam21/opni)
 <!--END_SECTION:activity-->
 
 <br />
