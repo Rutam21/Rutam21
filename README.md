@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Rutam21/amplication/pull/35) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
-2. ❗️ Opened issue [#2356](https://github.com/mindsdb/mindsdb/issues/2356) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#274](https://github.com/Rutam21/gatsby/pull/274) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#35](https://github.com/Rutam21/amplication/pull/35) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
 <!--END_SECTION:activity-->
 
 <br />
