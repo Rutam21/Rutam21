@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Rutam21/react-ultimate-resume/pull/12) in [Rutam21/react-ultimate-resume](https://github.com/Rutam21/react-ultimate-resume)
-2. 💪 Opened PR [#42](https://github.com/Rutam21/medusa/pull/42) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+1. 💪 Opened PR [#332](https://github.com/Rutam21/gatsby/pull/332) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#12](https://github.com/Rutam21/react-ultimate-resume/pull/12) in [Rutam21/react-ultimate-resume](https://github.com/Rutam21/react-ultimate-resume)
 <!--END_SECTION:activity-->
 
 <br />
