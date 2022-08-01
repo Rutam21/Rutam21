@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/Rutam21/amplication/pull/41) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
-2. 💪 Opened PR [#12](https://github.com/Rutam21/docs.konghq.com/pull/12) in [Rutam21/docs.konghq.com](https://github.com/Rutam21/docs.konghq.com)
+1. 💪 Opened PR [#377](https://github.com/Rutam21/gatsby/pull/377) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#41](https://github.com/Rutam21/amplication/pull/41) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
 <!--END_SECTION:activity-->
 
 <br />
