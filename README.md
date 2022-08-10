@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/Rutam21/chaos-mesh/pull/41) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
-2. 🗣 Commented on [#986](https://github.com/novuhq/novu/issues/986) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 💪 Opened PR [#28](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/28) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+2. 💪 Opened PR [#41](https://github.com/Rutam21/chaos-mesh/pull/41) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
 <!--END_SECTION:activity-->
 
 <br />
