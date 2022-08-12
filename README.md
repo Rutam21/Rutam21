@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1002](https://github.com/novuhq/novu/issues/1002) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#1017](https://github.com/novuhq/novu/issues/1017) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#2665](https://github.com/mindsdb/mindsdb/issues/2665) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#1002](https://github.com/novuhq/novu/issues/1002) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <br />
