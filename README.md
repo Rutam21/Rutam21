@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/29) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
-2. 💪 Opened PR [#28](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/28) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 🗣 Commented on [#1002](https://github.com/novuhq/novu/issues/1002) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🗣 Commented on [#1017](https://github.com/novuhq/novu/issues/1017) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <br />
