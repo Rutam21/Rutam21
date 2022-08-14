@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2673](https://github.com/mindsdb/mindsdb/issues/2673) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. ❗️ Opened issue [#2673](https://github.com/mindsdb/mindsdb/issues/2673) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#1022](https://github.com/novuhq/novu/issues/1022) in [novuhq/novu](https://github.com/novuhq/novu)
+2. ❗️ Opened issue [#1022](https://github.com/novuhq/novu/issues/1022) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <br />
