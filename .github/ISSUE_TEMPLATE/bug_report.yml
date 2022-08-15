@@ -3,7 +3,7 @@ description: "Submit a bug report to help us improve"
 title: "🐛 Bug Report: "
 labels: [bug]
 body:
-  - type: markdown
+   - type: markdown
     attributes:
       value: |
         We value your time and effort to submit this bug report. 🙏
