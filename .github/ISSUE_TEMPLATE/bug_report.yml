@@ -83,4 +83,4 @@ body:
       label: "🏢 Have you read the Contributing Guidelines?"
       options:
         - label: "I have read the [Contributing Guidelines](https://github.com/novuhq/novu/blob/main/CONTRIBUTING.md)"
-          required: true
+          required: true 
