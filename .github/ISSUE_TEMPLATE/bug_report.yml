@@ -7,6 +7,9 @@ body:
     attributes:
       value: We value your time and effort to submit this bug report. 🙏
   - type: textarea
+    id: description
+    validations:
+      required: true
     attributes:
       label: "📜 Description"
       description: "A clear and concise description of what the bug is."
