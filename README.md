@@ -52,7 +52,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1035](https://github.com/novuhq/novu/issues/1035) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#1035](https://github.com/novuhq/novu/pull/1035) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🗣 Commented on [#1035](https://github.com/novuhq/novu/issues/1035) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <br />
