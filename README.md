@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1084](https://github.com/novuhq/novu/issues/1084) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#7](https://github.com/Rutam21/gatsby-starter-2/pull/7) in [Rutam21/gatsby-starter-2](https://github.com/Rutam21/gatsby-starter-2)
+1. 🗣 Commented on [#2673](https://github.com/mindsdb/mindsdb/issues/2673) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#1084](https://github.com/novuhq/novu/issues/1084) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <br />
