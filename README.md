@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3040](https://github.com/mindsdb/mindsdb/issues/3040) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. ❗️ Opened issue [#3040](https://github.com/mindsdb/mindsdb/issues/3040) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#2388](https://github.com/flyteorg/flyte/issues/2388) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+2. 🗣 Commented on [#3040](https://github.com/mindsdb/mindsdb/issues/3040) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
