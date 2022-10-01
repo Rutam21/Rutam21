@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#986](https://github.com/novuhq/novu/issues/986) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#986](https://github.com/novuhq/novu/issues/986) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#1327](https://github.com/novuhq/novu/issues/1327) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🗣 Commented on [#3314](https://github.com/amplication/amplication/issues/3314) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
