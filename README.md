@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2290](https://github.com/medusajs/medusa/issues/2290) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#1340](https://github.com/novuhq/novu/issues/1340) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#2](https://github.com/ArmanChand/Hortus_Basket/issues/2) in [ArmanChand/Hortus_Basket](https://github.com/ArmanChand/Hortus_Basket)
+2. 💪 Opened PR [#2](https://github.com/ArmanChand/Hortus_Basket/pull/2) in [ArmanChand/Hortus_Basket](https://github.com/ArmanChand/Hortus_Basket)
 <!--END_SECTION:activity-->
 
 <br />
