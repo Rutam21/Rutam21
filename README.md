@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3314](https://github.com/amplication/amplication/issues/3314) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 🗣 Commented on [#1328](https://github.com/novuhq/novu/issues/1328) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#298](https://github.com/legesher/legesher-translations/issues/298) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+2. 🗣 Commented on [#298](https://github.com/legesher/legesher-translations/issues/298) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
 <!--END_SECTION:activity-->
 
 <br />
