@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/crweiner/hacktoberfest-swag-list/issues/578) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
-2. ❗️ Opened issue [#578](https://github.com/crweiner/hacktoberfest-swag-list/issues/578) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+1. 🗣 Commented on [#579](https://github.com/crweiner/hacktoberfest-swag-list/issues/579) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+2. 🗣 Commented on [#2785](https://github.com/meilisearch/meilisearch/issues/2785) in [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
 <!--END_SECTION:activity-->
 
 <br />
