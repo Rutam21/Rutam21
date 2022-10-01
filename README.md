@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1338](https://github.com/novuhq/novu/issues/1338) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#1338](https://github.com/novuhq/novu/pull/1338) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#1339](https://github.com/novuhq/novu/issues/1339) in [novuhq/novu](https://github.com/novuhq/novu)
+2. ❗️ Opened issue [#1339](https://github.com/novuhq/novu/issues/1339) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
 
 <br />
