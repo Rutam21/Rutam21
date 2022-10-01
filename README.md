@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ArmanChand/Hortus_Basket/issues/2) in [ArmanChand/Hortus_Basket](https://github.com/ArmanChand/Hortus_Basket)
-2. 💪 Opened PR [#2](https://github.com/ArmanChand/Hortus_Basket/pull/2) in [ArmanChand/Hortus_Basket](https://github.com/ArmanChand/Hortus_Basket)
+1. 🗣 Commented on [#578](https://github.com/crweiner/hacktoberfest-swag-list/issues/578) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+2. ❗️ Opened issue [#578](https://github.com/crweiner/hacktoberfest-swag-list/issues/578) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
 <!--END_SECTION:activity-->
 
 <br />
