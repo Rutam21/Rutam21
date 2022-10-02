@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Rutam21/HackToons/pull/9) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
-2. 🗣 Commented on [#9](https://github.com/Rutam21/HackToons/issues/9) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+1. 🗣 Commented on [#1328](https://github.com/novuhq/novu/issues/1328) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🎉 Merged PR [#9](https://github.com/Rutam21/HackToons/pull/9) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
 <!--END_SECTION:activity-->
 
 <br />
