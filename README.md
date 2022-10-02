@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1328](https://github.com/novuhq/novu/issues/1328) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🎉 Merged PR [#9](https://github.com/Rutam21/HackToons/pull/9) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+1. 🗣 Commented on [#583](https://github.com/crweiner/hacktoberfest-swag-list/issues/583) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+2. 💪 Opened PR [#585](https://github.com/crweiner/hacktoberfest-swag-list/pull/585) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
 <!--END_SECTION:activity-->
 
 <br />
