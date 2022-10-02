@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#583](https://github.com/crweiner/hacktoberfest-swag-list/issues/583) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
-2. 💪 Opened PR [#585](https://github.com/crweiner/hacktoberfest-swag-list/pull/585) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+1. 🗣 Commented on [#585](https://github.com/crweiner/hacktoberfest-swag-list/issues/585) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
+2. 🗣 Commented on [#583](https://github.com/crweiner/hacktoberfest-swag-list/issues/583) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
 <!--END_SECTION:activity-->
 
 <br />
