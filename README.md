@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#579](https://github.com/crweiner/hacktoberfest-swag-list/issues/579) in [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list)
-2. 🗣 Commented on [#2785](https://github.com/meilisearch/meilisearch/issues/2785) in [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
+1. 🎉 Merged PR [#9](https://github.com/Rutam21/HackToons/pull/9) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+2. 🗣 Commented on [#9](https://github.com/Rutam21/HackToons/issues/9) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
 <!--END_SECTION:activity-->
 
 <br />
