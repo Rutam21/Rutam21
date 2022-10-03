@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3073](https://github.com/mindsdb/mindsdb/issues/3073) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#2322](https://github.com/medusajs/medusa/issues/2322) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗️ Opened issue [#31](https://github.com/Njong392/Abbreve/issues/31) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
+2. 🗣 Commented on [#2948](https://github.com/mindsdb/mindsdb/issues/2948) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
