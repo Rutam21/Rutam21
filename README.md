@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2322](https://github.com/medusajs/medusa/issues/2322) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 💪 Opened PR [#2322](https://github.com/medusajs/medusa/pull/2322) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#1348](https://github.com/novuhq/novu/issues/1348) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🗣 Commented on [#3067](https://github.com/mindsdb/mindsdb/issues/3067) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
