@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4053](https://github.com/amplication/amplication/issues/4053) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 💪 Opened PR [#4053](https://github.com/amplication/amplication/pull/4053) in [amplication/amplication](https://github.com/amplication/amplication)
+1. 🗣 Commented on [#37](https://github.com/novuhq/website/issues/37) in [novuhq/website](https://github.com/novuhq/website)
+2. 🗣 Commented on [#4053](https://github.com/amplication/amplication/issues/4053) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
