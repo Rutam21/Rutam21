@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/Njong392/Abbreve/pull/33) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
-2. ❗️ Opened issue [#31](https://github.com/Njong392/Abbreve/issues/31) in [Njong392/Abbreve](https://github.com/Njong392/Abbreve)
+1. 🗣 Commented on [#3078](https://github.com/mindsdb/mindsdb/issues/3078) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#3079](https://github.com/mindsdb/mindsdb/issues/3079) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
