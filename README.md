@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3103](https://github.com/mindsdb/mindsdb/issues/3103) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 💪 Opened PR [#3103](https://github.com/mindsdb/mindsdb/pull/3103) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#4053](https://github.com/amplication/amplication/issues/4053) in [amplication/amplication](https://github.com/amplication/amplication)
+2. 💪 Opened PR [#4053](https://github.com/amplication/amplication/pull/4053) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
