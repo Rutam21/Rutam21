@@ -42,9 +42,8 @@
 <br/>
 <br/>
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-eight-silk.vercel.app/api/spotify.py" alt="Rutam21 Spotify Playing" width="350" />](https://open.spotify.com/user/31djyuztgrzv5hld5mbfcjiw7cdm)
+### GitHub Stats
+<img width="450" alt="Rutam21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rutam21&show_icons=true&theme=radical" />
 
 <br />
 
@@ -57,10 +56,9 @@
 
 <br />
 
-### GitHub Stats 
+### Open Source Achievements
 
-<img align="left" alt="Rutam21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rutam21&show_icons=true&theme=radical" /> 
-
+<a href="https://novu.co/contributors/Rutam21/"><img src="https://contributors.novu.co/profiles/Rutam21-small.jpg" height="170" width="450" alt="" />
 
   
 [website]: https://webportfoliomain.gatsbyjs.io/
