@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3121](https://github.com/mindsdb/mindsdb/issues/3121) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#3121](https://github.com/mindsdb/mindsdb/issues/3121) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#3128](https://github.com/mindsdb/mindsdb/issues/3128) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. ❗️ Opened issue [#3127](https://github.com/mindsdb/mindsdb/issues/3127) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
