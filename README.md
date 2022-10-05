@@ -51,8 +51,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4294](https://github.com/appwrite/appwrite/issues/4294) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#37](https://github.com/novuhq/website/issues/37) in [novuhq/website](https://github.com/novuhq/website)
+1. 🗣 Commented on [#3117](https://github.com/mindsdb/mindsdb/issues/3117) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#3117](https://github.com/mindsdb/mindsdb/pull/3117) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
