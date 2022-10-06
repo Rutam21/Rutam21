@@ -58,7 +58,7 @@
 
 ### Open Source Achievements
 
-
+<a href="https://novu.co/contributors/Rutam21/"><img src="https://contributors.novu.co/profiles/Rutam21-small.jpg" height="170" width="450" alt="" /></a>
   
 [website]: https://webportfoliomain.gatsbyjs.io/
 [twitter]: https://twitter.com/RutamHere
