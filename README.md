@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Rutam21/Rutam21/pull/5) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
-2. 🎉 Merged PR [#6](https://github.com/Rutam21/Rutam21/pull/6) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
+1. ❗️ Opened issue [#6](https://github.com/DagsHub/3D-model-datasets/issues/6) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. 🎉 Merged PR [#5](https://github.com/Rutam21/Rutam21/pull/5) in [Rutam21/Rutam21](https://github.com/Rutam21/Rutam21)
 <!--END_SECTION:activity-->
 
 <br />
