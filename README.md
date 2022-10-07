@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/DagsHub/3D-model-datasets/issues/8) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
-2. 💪 Opened PR [#32](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/32) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 🗣 Commented on [#3139](https://github.com/mindsdb/mindsdb/issues/3139) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. ❗️ Opened issue [#8](https://github.com/DagsHub/3D-model-datasets/issues/8) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
 <!--END_SECTION:activity-->
 
 <br />
