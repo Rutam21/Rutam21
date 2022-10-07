@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/32) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
-2. 💪 Opened PR [#21](https://github.com/Rutam21/opni/pull/21) in [Rutam21/opni](https://github.com/Rutam21/opni)
+1. ❗️ Opened issue [#8](https://github.com/DagsHub/3D-model-datasets/issues/8) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. 💪 Opened PR [#32](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/32) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 
 <br />
