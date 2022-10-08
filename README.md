@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/Rutam21/devtron/pull/40) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
-2. 🗣 Commented on [#9](https://github.com/DagsHub/3D-model-datasets/issues/9) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+1. 🗣 Commented on [#11](https://github.com/DagsHub/3D-model-datasets/issues/11) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. 💪 Opened PR [#11](https://github.com/DagsHub/3D-model-datasets/pull/11) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
 <!--END_SECTION:activity-->
 
 <br />
