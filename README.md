@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4042](https://github.com/amplication/amplication/issues/4042) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 🗣 Commented on [#17](https://github.com/DagsHub/3D-model-datasets/issues/17) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+1. ❗️ Opened issue [#18](https://github.com/DagsHub/3D-model-datasets/issues/18) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. 🗣 Commented on [#4042](https://github.com/amplication/amplication/issues/4042) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
