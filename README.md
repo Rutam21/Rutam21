@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/DagsHub/3D-model-datasets/issues/14) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
-2. 💪 Opened PR [#14](https://github.com/DagsHub/3D-model-datasets/pull/14) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+1. 💪 Opened PR [#17](https://github.com/DagsHub/3D-model-datasets/pull/17) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. ❗️ Opened issue [#16](https://github.com/DagsHub/3D-model-datasets/issues/16) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
 <!--END_SECTION:activity-->
 
 <br />
