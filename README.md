@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3258](https://github.com/mindsdb/mindsdb/issues/3258) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#3261](https://github.com/mindsdb/mindsdb/issues/3261) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#22](https://github.com/DagsHub/3D-model-datasets/issues/22) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. 🗣 Commented on [#21](https://github.com/DagsHub/3D-model-datasets/issues/21) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
 <!--END_SECTION:activity-->
 
 <br />
