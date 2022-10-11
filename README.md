@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#101](https://github.com/DagsHub/audio-datasets/issues/101) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
-2. ❗️ Opened issue [#100](https://github.com/DagsHub/audio-datasets/issues/100) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
+1. 🗣 Commented on [#79](https://github.com/DagsHub/audio-datasets/issues/79) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
+2. ❗️ Opened issue [#102](https://github.com/DagsHub/audio-datasets/issues/102) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
 <!--END_SECTION:activity-->
 
 <br />
