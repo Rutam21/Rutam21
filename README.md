@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Rutam21/HackToons/pull/10) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
-2. 🗣 Commented on [#10](https://github.com/Rutam21/HackToons/issues/10) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+1. ❗️ Opened issue [#3319](https://github.com/mindsdb/mindsdb/issues/3319) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. ❗️ Opened issue [#3318](https://github.com/mindsdb/mindsdb/issues/3318) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
