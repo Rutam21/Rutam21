@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3287](https://github.com/mindsdb/mindsdb/issues/3287) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. ❗️ Opened issue [#3326](https://github.com/mindsdb/mindsdb/issues/3326) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#4132](https://github.com/amplication/amplication/issues/4132) in [amplication/amplication](https://github.com/amplication/amplication)
+2. 💪 Opened PR [#4132](https://github.com/amplication/amplication/pull/4132) in [amplication/amplication](https://github.com/amplication/amplication)
 <!--END_SECTION:activity-->
 
 <br />
