@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4370](https://github.com/appwrite/appwrite/issues/4370) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#4366](https://github.com/appwrite/appwrite/issues/4366) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. ❗️ Opened issue [#101](https://github.com/DagsHub/audio-datasets/issues/101) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
+2. ❗️ Opened issue [#100](https://github.com/DagsHub/audio-datasets/issues/100) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
 <!--END_SECTION:activity-->
 
 <br />
