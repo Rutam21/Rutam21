@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3226](https://github.com/mindsdb/mindsdb/issues/3226) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#30](https://github.com/DagsHub/3D-model-datasets/issues/30) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+1. 🎉 Merged PR [#10](https://github.com/Rutam21/HackToons/pull/10) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
+2. 🗣 Commented on [#10](https://github.com/Rutam21/HackToons/issues/10) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
 <!--END_SECTION:activity-->
 
 <br />
