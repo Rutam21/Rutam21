@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1958](https://github.com/flame-engine/flame/issues/1958) in [flame-engine/flame](https://github.com/flame-engine/flame)
-2. 🗣 Commented on [#862](https://github.com/questdb/questdb.io/issues/862) in [questdb/questdb.io](https://github.com/questdb/questdb.io)
+1. 🗣 Commented on [#3364](https://github.com/mindsdb/mindsdb/issues/3364) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#3364](https://github.com/mindsdb/mindsdb/pull/3364) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
