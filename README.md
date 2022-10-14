@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5924](https://github.com/mattermost/docs/issues/5924) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#3372](https://github.com/mindsdb/mindsdb/issues/3372) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#3385](https://github.com/mindsdb/mindsdb/issues/3385) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. ❗️ Opened issue [#3384](https://github.com/mindsdb/mindsdb/issues/3384) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
