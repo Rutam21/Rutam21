@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/DagsHub/audio-datasets/pull/108) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
-2. 💪 Opened PR [#107](https://github.com/DagsHub/audio-datasets/pull/107) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
+1. 🗣 Commented on [#3376](https://github.com/mindsdb/mindsdb/issues/3376) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#3375](https://github.com/mindsdb/mindsdb/issues/3375) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
