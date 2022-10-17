@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4467](https://github.com/appwrite/appwrite/issues/4467) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#33](https://github.com/utopia-php/audit/issues/33) in [utopia-php/audit](https://github.com/utopia-php/audit)
+1. 🗣 Commented on [#3446](https://github.com/mindsdb/mindsdb/issues/3446) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#4467](https://github.com/appwrite/appwrite/issues/4467) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 <br />
