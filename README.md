@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/knovator/impler.io/pull/18) in [knovator/impler.io](https://github.com/knovator/impler.io)
-2. 🗣 Commented on [#107](https://github.com/DagsHub/audio-datasets/issues/107) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
+1. 💪 Opened PR [#51](https://github.com/Rutam21/medusa/pull/51) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 💪 Opened PR [#18](https://github.com/knovator/impler.io/pull/18) in [knovator/impler.io](https://github.com/knovator/impler.io)
 <!--END_SECTION:activity-->
 
 <br />
