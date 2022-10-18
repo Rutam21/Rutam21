@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3446](https://github.com/mindsdb/mindsdb/issues/3446) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#4467](https://github.com/appwrite/appwrite/issues/4467) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#107](https://github.com/DagsHub/audio-datasets/issues/107) in [DagsHub/audio-datasets](https://github.com/DagsHub/audio-datasets)
+2. 💪 Opened PR [#50](https://github.com/Rutam21/medusa/pull/50) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 
 <br />
