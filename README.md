@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3509](https://github.com/mindsdb/mindsdb/issues/3509) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. ❗️ Opened issue [#3508](https://github.com/mindsdb/mindsdb/issues/3508) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#18](https://github.com/Rutam21/earthly/pull/18) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+2. 💪 Opened PR [#3516](https://github.com/mindsdb/mindsdb/pull/3516) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
