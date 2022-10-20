@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/Rutam21/docs.konghq.com/pull/13) in [Rutam21/docs.konghq.com](https://github.com/Rutam21/docs.konghq.com)
-2. 💪 Opened PR [#18](https://github.com/Rutam21/earthly/pull/18) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+1. 🗣 Commented on [#14264](https://github.com/backstage/backstage/issues/14264) in [backstage/backstage](https://github.com/backstage/backstage)
+2. ❗️ Opened issue [#14264](https://github.com/backstage/backstage/issues/14264) in [backstage/backstage](https://github.com/backstage/backstage)
 <!--END_SECTION:activity-->
 
 <br />
