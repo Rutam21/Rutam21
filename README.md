@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14275](https://github.com/backstage/backstage/pull/14275) in [backstage/backstage](https://github.com/backstage/backstage)
-2. 🗣 Commented on [#14264](https://github.com/backstage/backstage/issues/14264) in [backstage/backstage](https://github.com/backstage/backstage)
+1. 💪 Opened PR [#3590](https://github.com/mindsdb/mindsdb/pull/3590) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#3589](https://github.com/mindsdb/mindsdb/pull/3589) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
