@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4370](https://github.com/appwrite/appwrite/issues/4370) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 💪 Opened PR [#3590](https://github.com/mindsdb/mindsdb/pull/3590) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#33](https://github.com/utopia-php/audit/issues/33) in [utopia-php/audit](https://github.com/utopia-php/audit)
+2. 🗣 Commented on [#14275](https://github.com/backstage/backstage/issues/14275) in [backstage/backstage](https://github.com/backstage/backstage)
 <!--END_SECTION:activity-->
 
 <br />
