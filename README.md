@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4499](https://github.com/appwrite/appwrite/issues/4499) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#4483](https://github.com/appwrite/appwrite/issues/4483) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 💪 Opened PR [#19](https://github.com/Rutam21/earthly/pull/19) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+2. 🗣 Commented on [#4499](https://github.com/appwrite/appwrite/issues/4499) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 <br />
