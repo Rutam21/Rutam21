@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4358](https://github.com/appwrite/appwrite/issues/4358) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 💪 Opened PR [#17](https://github.com/Rutam21/demo/pull/17) in [Rutam21/demo](https://github.com/Rutam21/demo)
+1. 💪 Opened PR [#549](https://github.com/Rutam21/gatsby/pull/549) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#548](https://github.com/Rutam21/gatsby/pull/548) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
