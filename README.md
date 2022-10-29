@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3248](https://github.com/mindsdb/mindsdb/issues/3248) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#3248](https://github.com/mindsdb/mindsdb/issues/3248) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#4355](https://github.com/appwrite/appwrite/issues/4355) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#4356](https://github.com/appwrite/appwrite/issues/4356) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 <br />
