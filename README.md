@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Rutam21/gatsby-conf-2021/pull/9) in [Rutam21/gatsby-conf-2021](https://github.com/Rutam21/gatsby-conf-2021)
-2. 🗣 Commented on [#4358](https://github.com/appwrite/appwrite/issues/4358) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 💪 Opened PR [#18](https://github.com/Rutam21/engineering-portal/pull/18) in [Rutam21/engineering-portal](https://github.com/Rutam21/engineering-portal)
+2. 💪 Opened PR [#9](https://github.com/Rutam21/gatsby-conf-2021/pull/9) in [Rutam21/gatsby-conf-2021](https://github.com/Rutam21/gatsby-conf-2021)
 <!--END_SECTION:activity-->
 
 <br />
