@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4358](https://github.com/appwrite/appwrite/issues/4358) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#11](https://github.com/utopia-php/messaging/issues/11) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+1. 💪 Opened PR [#9](https://github.com/Rutam21/gatsby-conf-2021/pull/9) in [Rutam21/gatsby-conf-2021](https://github.com/Rutam21/gatsby-conf-2021)
+2. 🗣 Commented on [#4358](https://github.com/appwrite/appwrite/issues/4358) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 <br />
