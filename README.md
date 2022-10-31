@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3910](https://github.com/mindsdb/mindsdb/issues/3910) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. ❗️ Opened issue [#3909](https://github.com/mindsdb/mindsdb/issues/3909) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#3926](https://github.com/mindsdb/mindsdb/issues/3926) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. ❗️ Opened issue [#3925](https://github.com/mindsdb/mindsdb/issues/3925) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
