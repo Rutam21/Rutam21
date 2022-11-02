@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3917](https://github.com/mindsdb/mindsdb/issues/3917) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. ❗️ Opened issue [#3926](https://github.com/mindsdb/mindsdb/issues/3926) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#58](https://github.com/Rutam21/medusa/pull/58) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 🗣 Commented on [#3917](https://github.com/mindsdb/mindsdb/issues/3917) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
