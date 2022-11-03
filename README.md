@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/Rutam21/medusa/pull/59) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#7](https://github.com/Rutam21/mindsdb/pull/7) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
+1. 💪 Opened PR [#35](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/35) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+2. 💪 Opened PR [#59](https://github.com/Rutam21/medusa/pull/59) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 
 <br />
