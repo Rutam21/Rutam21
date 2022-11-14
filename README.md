@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Rutam21/mindsdb/pull/11) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
-2. 💪 Opened PR [#10](https://github.com/Rutam21/mindsdb/pull/10) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
+1. 🗣 Commented on [#33](https://github.com/utopia-php/audit/issues/33) in [utopia-php/audit](https://github.com/utopia-php/audit)
+2. 💪 Opened PR [#11](https://github.com/Rutam21/mindsdb/pull/11) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
