@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Rutam21/earthly/pull/22) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#20](https://github.com/Rutam21/k6/pull/20) in [Rutam21/k6](https://github.com/Rutam21/k6)
+1. 🗣 Commented on [#17](https://github.com/DagsHub/3D-model-datasets/issues/17) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
+2. 🗣 Commented on [#19](https://github.com/DagsHub/3D-model-datasets/issues/19) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
 <!--END_SECTION:activity-->
 
 <br />
