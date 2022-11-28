@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Rutam21/earthly/pull/23) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#18](https://github.com/Rutam21/kratos/pull/18) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
+1. 💪 Opened PR [#69](https://github.com/Rutam21/medusa/pull/69) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 💪 Opened PR [#23](https://github.com/Rutam21/earthly/pull/23) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 
 <br />
