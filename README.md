@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Rutam21/livestream-demo/pull/6) in [Rutam21/livestream-demo](https://github.com/Rutam21/livestream-demo)
-2. 💪 Opened PR [#76](https://github.com/Rutam21/medusa/pull/76) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+1. 💪 Opened PR [#77](https://github.com/Rutam21/medusa/pull/77) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 💪 Opened PR [#6](https://github.com/Rutam21/livestream-demo/pull/6) in [Rutam21/livestream-demo](https://github.com/Rutam21/livestream-demo)
 <!--END_SECTION:activity-->
 
 <br />
