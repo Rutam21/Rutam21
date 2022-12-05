@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/Rutam21/amplication/pull/51) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
-2. 💪 Opened PR [#790](https://github.com/Rutam21/gatsby/pull/790) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#6](https://github.com/Rutam21/js-song-generator/pull/6) in [Rutam21/js-song-generator](https://github.com/Rutam21/js-song-generator)
+2. 💪 Opened PR [#51](https://github.com/Rutam21/amplication/pull/51) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
 <!--END_SECTION:activity-->
 
 <br />
