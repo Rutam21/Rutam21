@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/Rutam21/medusa/pull/88) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#45](https://github.com/Rutam21/devtron/pull/45) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
+1. 💪 Opened PR [#7](https://github.com/Rutam21/js-song-generator/pull/7) in [Rutam21/js-song-generator](https://github.com/Rutam21/js-song-generator)
+2. 💪 Opened PR [#88](https://github.com/Rutam21/medusa/pull/88) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 
 <br />
