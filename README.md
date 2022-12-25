@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Rutam21/learn/pull/14) in [Rutam21/learn](https://github.com/Rutam21/learn)
-2. 💪 Opened PR [#803](https://github.com/Rutam21/gatsby/pull/803) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#47](https://github.com/Rutam21/chaos-mesh/pull/47) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
+2. 💪 Opened PR [#14](https://github.com/Rutam21/learn/pull/14) in [Rutam21/learn](https://github.com/Rutam21/learn)
 <!--END_SECTION:activity-->
 
 <br />
