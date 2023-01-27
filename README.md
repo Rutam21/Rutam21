@@ -51,7 +51,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3918](https://github.com/mindsdb/mindsdb/issues/3918) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 💪 Opened PR [#24](https://github.com/Rutam21/engineering-portal/pull/24) in [Rutam21/engineering-portal](https://github.com/Rutam21/engineering-portal)
+2. 🗣 Commented on [#3918](https://github.com/mindsdb/mindsdb/issues/3918) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
