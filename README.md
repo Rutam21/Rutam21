@@ -50,7 +50,7 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3918](https://github.com/mindsdb/mindsdb/issues/3918) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#915](https://github.com/Rutam21/gatsby/pull/915) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 2. 🗣 Commented on [#3918](https://github.com/mindsdb/mindsdb/issues/3918) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
