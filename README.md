@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#954](https://github.com/Rutam21/gatsby/pull/954) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#25](https://github.com/Rutam21/kratos/pull/25) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
+1. 🗣 Commented on [#4726](https://github.com/mindsdb/mindsdb/issues/4726) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#954](https://github.com/Rutam21/gatsby/pull/954) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
