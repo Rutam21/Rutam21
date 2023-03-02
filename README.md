@@ -51,7 +51,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4727](https://github.com/mindsdb/mindsdb/issues/4727) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#4478](https://github.com/mindsdb/mindsdb/issues/4478) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#4750](https://github.com/mindsdb/mindsdb/issues/4750) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
