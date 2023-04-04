@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Rutam21/earthly/pull/31) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#46](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/46) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 💪 Opened PR [#17](https://github.com/Rutam21/docs.konghq.com/pull/17) in [Rutam21/docs.konghq.com](https://github.com/Rutam21/docs.konghq.com)
+2. 💪 Opened PR [#31](https://github.com/Rutam21/earthly/pull/31) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 
 <br />
