@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4852](https://github.com/mindsdb/mindsdb/issues/4852) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 💪 Opened PR [#17](https://github.com/Rutam21/docs.konghq.com/pull/17) in [Rutam21/docs.konghq.com](https://github.com/Rutam21/docs.konghq.com)
+1. 🗣 Commented on [#5532](https://github.com/mindsdb/mindsdb/issues/5532) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#5532](https://github.com/mindsdb/mindsdb/pull/5532) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
