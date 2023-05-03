@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/Rutam21/k6/pull/26) in [Rutam21/k6](https://github.com/Rutam21/k6)
-2. 🗣 Commented on [#5895](https://github.com/mindsdb/mindsdb/issues/5895) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#47](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/47) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 
 <br />
