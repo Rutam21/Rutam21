@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Rutam21/novatorem/pull/3) in [Rutam21/novatorem](https://github.com/Rutam21/novatorem)
-2. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#30](https://github.com/Rutam21/k6-docs/pull/30) in [Rutam21/k6-docs](https://github.com/Rutam21/k6-docs)
+2. 💪 Opened PR [#3](https://github.com/Rutam21/novatorem/pull/3) in [Rutam21/novatorem](https://github.com/Rutam21/novatorem)
 <!--END_SECTION:activity-->
 
 <br />
