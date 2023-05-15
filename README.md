@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/Rutam21/k6-docs/pull/30) in [Rutam21/k6-docs](https://github.com/Rutam21/k6-docs)
-2. 💪 Opened PR [#3](https://github.com/Rutam21/novatorem/pull/3) in [Rutam21/novatorem](https://github.com/Rutam21/novatorem)
+1. 🗣 Commented on [#23](https://github.com/getdozer/dozer-samples/issues/23) in [getdozer/dozer-samples](https://github.com/getdozer/dozer-samples)
+2. 🗣 Commented on [#23](https://github.com/getdozer/dozer-samples/issues/23) in [getdozer/dozer-samples](https://github.com/getdozer/dozer-samples)
 <!--END_SECTION:activity-->
 
 <br />
