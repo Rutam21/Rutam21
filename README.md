@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/getdozer/dozer-samples/issues/23) in [getdozer/dozer-samples](https://github.com/getdozer/dozer-samples)
-2. 🗣 Commented on [#23](https://github.com/getdozer/dozer-samples/issues/23) in [getdozer/dozer-samples](https://github.com/getdozer/dozer-samples)
+1. 💪 Opened PR [#1039](https://github.com/Rutam21/gatsby/pull/1039) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#1038](https://github.com/Rutam21/gatsby/pull/1038) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
