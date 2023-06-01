@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Rutam21/appwrite/pull/2) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
-2. ❗️ Opened issue [#3541](https://github.com/novuhq/novu/issues/3541) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 💪 Opened PR [#3](https://github.com/Rutam21/abuse/pull/3) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
+2. 💪 Opened PR [#2](https://github.com/Rutam21/appwrite/pull/2) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
 <!--END_SECTION:activity-->
 
 <br />
