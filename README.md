@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Rutam21/appwrite/pull/6) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
-2. 💪 Opened PR [#6](https://github.com/Rutam21/abuse/pull/6) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
+1. 🗣 Commented on [#6481](https://github.com/mindsdb/mindsdb/issues/6481) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#6481](https://github.com/mindsdb/mindsdb/pull/6481) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
