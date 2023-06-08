@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1136](https://github.com/Rutam21/gatsby/pull/1136) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#1132](https://github.com/Rutam21/gatsby/pull/1132) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#12](https://github.com/Rutam21/gatsby-starter-2/pull/12) in [Rutam21/gatsby-starter-2](https://github.com/Rutam21/gatsby-starter-2)
+2. 💪 Opened PR [#1137](https://github.com/Rutam21/gatsby/pull/1137) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
