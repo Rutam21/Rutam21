@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6481](https://github.com/mindsdb/mindsdb/issues/6481) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 💪 Opened PR [#6481](https://github.com/mindsdb/mindsdb/pull/6481) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#31](https://github.com/Rutam21/opni/pull/31) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 🗣 Commented on [#6481](https://github.com/mindsdb/mindsdb/issues/6481) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
 <br />
