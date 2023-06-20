@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/Rutam21/devtron/pull/51) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
-2. 💪 Opened PR [#49](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/49) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 💪 Opened PR [#1187](https://github.com/Rutam21/gatsby/pull/1187) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#1186](https://github.com/Rutam21/gatsby/pull/1186) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
