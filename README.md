@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1189](https://github.com/Rutam21/gatsby/pull/1189) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#1188](https://github.com/Rutam21/gatsby/pull/1188) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#11](https://github.com/Rutam21/stepzen-spacex-graphql/pull/11) in [Rutam21/stepzen-spacex-graphql](https://github.com/Rutam21/stepzen-spacex-graphql)
+2. 💪 Opened PR [#1190](https://github.com/Rutam21/gatsby/pull/1190) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 
 <br />
