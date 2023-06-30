@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/Rutam21/earthly/pull/34) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#64](https://github.com/Rutam21/amplication/pull/64) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
+1. 💪 Opened PR [#22](https://github.com/Rutam21/Meme-Maker/pull/22) in [Rutam21/Meme-Maker](https://github.com/Rutam21/Meme-Maker)
+2. 💪 Opened PR [#34](https://github.com/Rutam21/earthly/pull/34) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 
 <br />
