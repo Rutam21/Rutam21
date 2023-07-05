@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Rutam21/questdb.io/pull/11) in [Rutam21/questdb.io](https://github.com/Rutam21/questdb.io)
-2. 💪 Opened PR [#30](https://github.com/Rutam21/k6/pull/30) in [Rutam21/k6](https://github.com/Rutam21/k6)
+1. 💪 Opened PR [#32](https://github.com/Rutam21/opni/pull/32) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 💪 Opened PR [#11](https://github.com/Rutam21/questdb.io/pull/11) in [Rutam21/questdb.io](https://github.com/Rutam21/questdb.io)
 <!--END_SECTION:activity-->
 
 <br />
