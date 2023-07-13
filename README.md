@@ -50,8 +50,8 @@
 ### Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#144](https://github.com/Rutam21/medusa/pull/144) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#12](https://github.com/Rutam21/questdb.io/pull/12) in [Rutam21/questdb.io](https://github.com/Rutam21/questdb.io)
+1. 💪 Opened PR [#33](https://github.com/Rutam21/opni/pull/33) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 💪 Opened PR [#144](https://github.com/Rutam21/medusa/pull/144) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 
 <br />
