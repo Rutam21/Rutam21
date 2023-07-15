@@ -16,5 +16,5 @@ jobs:
       - name: Pull in Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/rutamhere,https://@TechFreak24x7.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/rutamhere,https://rpmwrites.hashnode.dev/rss.xml"
           commit_message: "Updated readme with the latest blog posts"
