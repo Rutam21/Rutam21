@@ -61,6 +61,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Predict Sales of Manufacturing with MindsDB using Java](https://dev.to/rutamhere/predict-sales-of-manufacturing-with-mindsdb-using-java-1j6b)
+- [Introducing MindsDB Playground: Your all-in-one MindsDB Companion App](https://dev.to/rutamhere/introducing-mindsdb-playground-your-all-in-one-mindsdb-companion-app-1hgo)
+- [Forecast Tesla Stock Prices using MindsDB](https://dev.to/rutamhere/predict-tesla-stock-prices-using-mindsdb-40k5)
+- [Deploying MindsDB on Scaleway Cloud](https://dev.to/rutamhere/deploying-mindsdb-on-scaleway-cloud-4kc6)
+- [Creating Views with MindsDB](https://dev.to/rutamhere/creating-views-with-mindsdb-1mnf)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
