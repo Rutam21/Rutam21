@@ -10,18 +10,21 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RutamHere?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RutamHere)
 <br/>
 <br/>
-## I'm a Son, Developer, Foodie and Traveller!!
+## Software Developer | Blogger | Open Source Enthusiast
 
-- 🔭 I just deployed my portfolio: [Rutam From Web Tech][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects | Stay alive and spread COVID awareness
-- ⚡ Fun fact: I love to game on PC and I am a very bad chef coz I hate cooking.
+- Full-stack Developer with a knack for building impactful solutions
+- Expertise in HTML, CSS, JavaScript, Node.js, and MindsDB
+- Cloud enthusiast (AWS, Google Cloud) for efficient deployments
+- Dedicated to writing clean code and implementing best practices
+- Active in the open-source community and Hackathons
+ 
+### 𝕷𝖊𝖙'𝖘 𝖈𝖔𝖓𝖓𝖊𝖈𝖙 𝖆𝖓𝖉 𝖈𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖊 𝖔𝖓 𝖊𝖝𝖈𝖎𝖙𝖎𝖓𝖌 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘!
 
 <br/>
 
 ### Languages and Tools <a href="https://rutamfromweb.tech"><img align="right" height="450" src="https://github.com/Rutam21/Rutam21/blob/main/devcard.svg" width="400" alt="Rutam's Dev Card"/></a>
 
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=blue)](https://dev.to/rutamhere)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><br/>
@@ -56,11 +59,19 @@
 
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
 ### Open Source Achievements
 
 <a href="https://novu.co/contributors/Rutam21/"><img src="https://contributors.novu.co/profiles/Rutam21-small.jpg" height="170" width="450" alt="" /></a>
 
 [![@rutamhere's Holopin board](https://holopin.io/api/user/board?user=rutamhere)](https://holopin.io/@rutamhere)
+
+![Visitor Count](https://profile-counter.glitch.me/Rutam21/count.svg center)
   
 [website]: https://webportfoliomain.gatsbyjs.io/
 [twitter]: https://twitter.com/RutamHere
