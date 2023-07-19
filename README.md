@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/52) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
-2. 💪 Opened PR [#1304](https://github.com/Rutam21/gatsby/pull/1304) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#34](https://github.com/Rutam21/opni/pull/34) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 💪 Opened PR [#52](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/52) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 </details>
 
