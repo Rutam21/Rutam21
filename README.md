@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Rutam21/abuse/pull/8) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
-2. 💪 Opened PR [#7](https://github.com/Rutam21/abuse/pull/7) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
+1. 💪 Opened PR [#35](https://github.com/Rutam21/opni/pull/35) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 💪 Opened PR [#8](https://github.com/Rutam21/abuse/pull/8) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
 <!--END_SECTION:activity-->
 </details>
 
