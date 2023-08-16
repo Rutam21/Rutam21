@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/Rutam21/devtron/pull/54) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
-2. 💪 Opened PR [#58](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/58) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 💪 Opened PR [#31](https://github.com/Rutam21/k6/pull/31) in [Rutam21/k6](https://github.com/Rutam21/k6)
+2. 💪 Opened PR [#54](https://github.com/Rutam21/devtron/pull/54) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
 <!--END_SECTION:activity-->
 </details>
 
