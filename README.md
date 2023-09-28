@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Rutam21/mindsdb/pull/17) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
-2. 🗣 Commented on [#6590](https://github.com/mattermost/docs/issues/6590) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 💪 Opened PR [#1310](https://github.com/Rutam21/gatsby/pull/1310) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#17](https://github.com/Rutam21/mindsdb/pull/17) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
 <!--END_SECTION:activity-->
 </details>
 
