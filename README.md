@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1338](https://github.com/Rutam21/gatsby/pull/1338) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 🗣 Commented on [#298](https://github.com/legesher/legesher-translations/issues/298) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+1. 💪 Opened PR [#1339](https://github.com/Rutam21/gatsby/pull/1339) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#20](https://github.com/Rutam21/HackToons/pull/20) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
 <!--END_SECTION:activity-->
 </details>
 
