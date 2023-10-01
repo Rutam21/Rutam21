@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/61) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
-2. 💪 Opened PR [#60](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/60) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 🗣 Commented on [#298](https://github.com/legesher/legesher-translations/issues/298) in [legesher/legesher-translations](https://github.com/legesher/legesher-translations)
+2. 💪 Opened PR [#61](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/61) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 </details>
 
