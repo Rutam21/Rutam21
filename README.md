@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/DagsHub/open-source-ml-models/issues/5) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
-2. ❗️ Opened issue [#4](https://github.com/DagsHub/open-source-ml-models/issues/4) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
+1. ❗️ Opened issue [#9](https://github.com/DagsHub/open-source-ml-models/issues/9) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
+2. 💪 Opened PR [#56](https://github.com/Rutam21/chaos-mesh/pull/56) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
 <!--END_SECTION:activity-->
 </details>
 
