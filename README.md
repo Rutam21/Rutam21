@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1383](https://github.com/Rutam21/gatsby/pull/1383) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#1382](https://github.com/Rutam21/gatsby/pull/1382) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. ❗️ Opened issue [#13](https://github.com/DagsHub/open-source-ml-models/issues/13) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
+2. 💪 Opened PR [#1383](https://github.com/Rutam21/gatsby/pull/1383) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
