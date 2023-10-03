@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/DagsHub/open-source-ml-models/issues/24) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
-2. 💪 Opened PR [#24](https://github.com/DagsHub/open-source-ml-models/pull/24) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
+1. 🗣 Commented on [#6590](https://github.com/mattermost/docs/issues/6590) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#24](https://github.com/DagsHub/open-source-ml-models/issues/24) in [DagsHub/open-source-ml-models](https://github.com/DagsHub/open-source-ml-models)
 <!--END_SECTION:activity-->
 </details>
 
