@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6677](https://github.com/mattermost/docs/issues/6677) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#6677](https://github.com/mattermost/docs/pull/6677) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 💪 Opened PR [#11](https://github.com/Rutam21/layer0-nextjs-example/pull/11) in [Rutam21/layer0-nextjs-example](https://github.com/Rutam21/layer0-nextjs-example)
+2. 🗣 Commented on [#6677](https://github.com/mattermost/docs/issues/6677) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
