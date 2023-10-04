@@ -111,7 +111,7 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Rutam21/Chores-Checker-App/pull/6) in [Rutam21/Chores-Checker-App](https://github.com/Rutam21/Chores-Checker-App)
+1. 🗣 Commented on [#542](https://github.com/triggerdotdev/trigger.dev/issues/542) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 2. 🗣 Commented on [#542](https://github.com/triggerdotdev/trigger.dev/issues/542) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--END_SECTION:activity-->
 </details>
