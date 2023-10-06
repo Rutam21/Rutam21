@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2319](https://github.com/juspay/hyperswitch/issues/2319) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 💪 Opened PR [#7](https://github.com/Rutam21/Chores-Checker-App/pull/7) in [Rutam21/Chores-Checker-App](https://github.com/Rutam21/Chores-Checker-App)
+1. 💪 Opened PR [#37](https://github.com/Rutam21/earthly/pull/37) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+2. 🗣 Commented on [#2319](https://github.com/juspay/hyperswitch/issues/2319) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
