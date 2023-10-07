@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#581](https://github.com/triggerdotdev/trigger.dev/issues/581) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-2. 💪 Opened PR [#581](https://github.com/triggerdotdev/trigger.dev/pull/581) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+1. 🗣 Commented on [#2319](https://github.com/juspay/hyperswitch/issues/2319) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 🗣 Commented on [#581](https://github.com/triggerdotdev/trigger.dev/issues/581) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--END_SECTION:activity-->
 </details>
 
