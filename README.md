@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#581](https://github.com/triggerdotdev/trigger.dev/issues/581) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-2. 💪 Opened PR [#38](https://github.com/Rutam21/earthly/pull/38) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+2. 🗣 Commented on [#581](https://github.com/triggerdotdev/trigger.dev/issues/581) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--END_SECTION:activity-->
 </details>
 
