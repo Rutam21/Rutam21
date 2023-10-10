@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/devtron-labs/devtron-blogathon/issues/1) in [devtron-labs/devtron-blogathon](https://github.com/devtron-labs/devtron-blogathon)
-2. 🗣 Commented on [#9909](https://github.com/hasura/graphql-engine/issues/9909) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+1. 🗣 Commented on [#9909](https://github.com/hasura/graphql-engine/issues/9909) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+2. ❗️ Opened issue [#1](https://github.com/devtron-labs/devtron-blogathon/issues/1) in [devtron-labs/devtron-blogathon](https://github.com/devtron-labs/devtron-blogathon)
 <!--END_SECTION:activity-->
 </details>
 
