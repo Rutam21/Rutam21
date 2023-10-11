@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2350](https://github.com/juspay/hyperswitch/issues/2350) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 🗣 Commented on [#603](https://github.com/triggerdotdev/trigger.dev/issues/603) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+1. 💪 Opened PR [#41](https://github.com/Rutam21/opni/pull/41) in [Rutam21/opni](https://github.com/Rutam21/opni)
+2. 💪 Opened PR [#2546](https://github.com/juspay/hyperswitch/pull/2546) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
