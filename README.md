@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2393](https://github.com/illacloud/illa-builder/issues/2393) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-2. 💪 Opened PR [#33](https://github.com/Rutam21/kratos/pull/33) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
+1. 🗣 Commented on [#6706](https://github.com/mattermost/docs/issues/6706) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#6706](https://github.com/mattermost/docs/pull/6706) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
