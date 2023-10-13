@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9931](https://github.com/hasura/graphql-engine/issues/9931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
-2. 💪 Opened PR [#9931](https://github.com/hasura/graphql-engine/pull/9931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+2. 🗣 Commented on [#9931](https://github.com/hasura/graphql-engine/issues/9931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
 <!--END_SECTION:activity-->
 </details>
 
