@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/Rutam21/medusa/pull/150) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#1385](https://github.com/Rutam21/gatsby/pull/1385) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 🗣 Commented on [#2393](https://github.com/illacloud/illa-builder/issues/2393) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+2. 💪 Opened PR [#33](https://github.com/Rutam21/kratos/pull/33) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
 <!--END_SECTION:activity-->
 </details>
 
