@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#608](https://github.com/arc53/DocsGPT/issues/608) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
-2. ❗️ Opened issue [#608](https://github.com/arc53/DocsGPT/issues/608) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+1. 💪 Opened PR [#1389](https://github.com/Rutam21/gatsby/pull/1389) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 🗣 Commented on [#608](https://github.com/arc53/DocsGPT/issues/608) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
 <!--END_SECTION:activity-->
 </details>
 
