@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1389](https://github.com/Rutam21/gatsby/pull/1389) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 🗣 Commented on [#608](https://github.com/arc53/DocsGPT/issues/608) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+1. 🗣 Commented on [#3997](https://github.com/appwrite/appwrite/issues/3997) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#4000](https://github.com/appwrite/appwrite/issues/4000) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 </details>
 
