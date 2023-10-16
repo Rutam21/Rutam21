@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2890](https://github.com/illacloud/illa-builder/pull/2890) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-2. 💪 Opened PR [#2889](https://github.com/illacloud/illa-builder/pull/2889) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+1. 🗣 Commented on [#113](https://github.com/novuhq/docs/issues/113) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 💪 Opened PR [#2890](https://github.com/illacloud/illa-builder/pull/2890) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
 <!--END_SECTION:activity-->
 </details>
 
