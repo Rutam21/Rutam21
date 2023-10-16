@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/novuhq/docs/issues/174) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 🗣 Commented on [#169](https://github.com/novuhq/docs/issues/169) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🗣 Commented on [#9931](https://github.com/hasura/graphql-engine/issues/9931) in [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
+2. 🗣 Commented on [#174](https://github.com/novuhq/docs/issues/174) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 </details>
 
