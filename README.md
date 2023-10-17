@@ -121,7 +121,7 @@
 
 <a href="https://novu.co/contributors/Rutam21/"><img src="https://contributors.novu.co/profiles/Rutam21-small.jpg" height="200" width="500" alt="" /></a>
 
-[![@rutamhere's Holopin board](https://holopin.io/api/user/board?user=rutamhere)](https://holopin.io/@rutamhere)
+[![An image of @rutamhere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rutamhere)](https://holopin.io/@rutamhere)
 </details>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&weight=900&size=100&pause=1000&color=F7F7F7FF&background=4C72FFFF&center=true&vCenter=true&width=1500&height=125&lines=Thanks+for+visiting+my+profile.;See+you+soon!;)](https://git.io/typing-svg)
