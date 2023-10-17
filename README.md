@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#632](https://github.com/arc53/DocsGPT/issues/632) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
-2. 💪 Opened PR [#2958](https://github.com/illacloud/illa-builder/pull/2958) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+1. 🗣 Commented on [#633](https://github.com/arc53/DocsGPT/issues/633) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+2. 💪 Opened PR [#633](https://github.com/arc53/DocsGPT/pull/633) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
 <!--END_SECTION:activity-->
 </details>
 
