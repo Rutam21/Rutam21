@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/66) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
-2. 🗣 Commented on [#6706](https://github.com/mattermost/docs/issues/6706) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#2324](https://github.com/juspay/hyperswitch/issues/2324) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 💪 Opened PR [#66](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/66) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
 <!--END_SECTION:activity-->
 </details>
 
