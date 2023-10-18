@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/clickvote/clickvote/issues/43) in [clickvote/clickvote](https://github.com/clickvote/clickvote)
-2. 🗣 Commented on [#2288](https://github.com/juspay/hyperswitch/issues/2288) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 🗣 Commented on [#5401](https://github.com/deepset-ai/haystack/issues/5401) in [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+2. 🗣 Commented on [#43](https://github.com/clickvote/clickvote/issues/43) in [clickvote/clickvote](https://github.com/clickvote/clickvote)
 <!--END_SECTION:activity-->
 </details>
 
