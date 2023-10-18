@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24790](https://github.com/mattermost/mattermost/issues/24790) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-2. 🗣 Commented on [#24913](https://github.com/mattermost/mattermost/issues/24913) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+1. 🗣 Commented on [#2631](https://github.com/juspay/hyperswitch/issues/2631) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 💪 Opened PR [#2631](https://github.com/juspay/hyperswitch/pull/2631) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
