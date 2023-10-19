@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6653](https://github.com/mattermost/docs/issues/6653) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#6314](https://github.com/mattermost/docs/issues/6314) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#660](https://github.com/triggerdotdev/trigger.dev/issues/660) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+2. 💪 Opened PR [#660](https://github.com/triggerdotdev/trigger.dev/pull/660) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--END_SECTION:activity-->
 </details>
 
