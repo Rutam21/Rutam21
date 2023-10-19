@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2288](https://github.com/juspay/hyperswitch/issues/2288) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 🗣 Commented on [#169](https://github.com/novuhq/docs/issues/169) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🗣 Commented on [#649](https://github.com/arc53/DocsGPT/issues/649) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+2. ❗️ Opened issue [#649](https://github.com/arc53/DocsGPT/issues/649) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
 <!--END_SECTION:activity-->
 </details>
 
