@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3008](https://github.com/illacloud/illa-builder/pull/3008) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-2. 💪 Opened PR [#3003](https://github.com/illacloud/illa-builder/pull/3003) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+1. 🗣 Commented on [#2288](https://github.com/juspay/hyperswitch/issues/2288) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 🗣 Commented on [#169](https://github.com/novuhq/docs/issues/169) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 </details>
 
