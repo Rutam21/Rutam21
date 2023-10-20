@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#672](https://github.com/triggerdotdev/trigger.dev/issues/672) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-2. 💪 Opened PR [#672](https://github.com/triggerdotdev/trigger.dev/pull/672) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+1. 🗣 Commented on [#673](https://github.com/triggerdotdev/trigger.dev/issues/673) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+2. 💪 Opened PR [#673](https://github.com/triggerdotdev/trigger.dev/pull/673) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
 <!--END_SECTION:activity-->
 </details>
 
