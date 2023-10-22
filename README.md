@@ -89,11 +89,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Instill AI Pipeline in 5 minutes](https://dev.to/rutamhere/building-an-instill-ai-pipeline-in-5-minutes-4fp2)
 - [Deploying DocsGPT on Civo Compute](https://dev.to/rutamhere/deploying-docsgpt-on-civo-compute-c)
 - [Predict Sales of Manufacturing with MindsDB using Java](https://dev.to/rutamhere/predict-sales-of-manufacturing-with-mindsdb-using-java-1j6b)
 - [Introducing MindsDB Playground: Your all-in-one MindsDB Companion App](https://dev.to/rutamhere/introducing-mindsdb-playground-your-all-in-one-mindsdb-companion-app-1hgo)
 - [Exploring Timeseries Forecasting with MindsDB and YugabyteDB](https://rpmwrites.hashnode.dev/exploring-timeseries-forecasting-with-mindsdb-and-yugabytedb)
-- [Exploring Nixtla&#39;s StatsForecast Integration with MindsDB](https://rpmwrites.hashnode.dev/exploring-nixtlas-statsforecast-integration-with-mindsdb)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
