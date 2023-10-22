@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3146](https://github.com/illacloud/illa-builder/issues/3146) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
-2. ❗️ Opened issue [#3146](https://github.com/illacloud/illa-builder/issues/3146) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+1. 💪 Opened PR [#3149](https://github.com/illacloud/illa-builder/pull/3149) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
+2. 💪 Opened PR [#3147](https://github.com/illacloud/illa-builder/pull/3147) in [illacloud/illa-builder](https://github.com/illacloud/illa-builder)
 <!--END_SECTION:activity-->
 </details>
 
