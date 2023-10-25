@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Rutam21/lightwood/pull/3) in [Rutam21/lightwood](https://github.com/Rutam21/lightwood)
-2. 🗣 Commented on [#672](https://github.com/triggerdotdev/trigger.dev/issues/672) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+1. 🗣 Commented on [#6727](https://github.com/mattermost/docs/issues/6727) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#3](https://github.com/Rutam21/lightwood/pull/3) in [Rutam21/lightwood](https://github.com/Rutam21/lightwood)
 <!--END_SECTION:activity-->
 </details>
 
