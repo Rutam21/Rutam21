@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Rutam21/layer0-nextjs-example/pull/12) in [Rutam21/layer0-nextjs-example](https://github.com/Rutam21/layer0-nextjs-example)
-2. 🗣 Commented on [#6727](https://github.com/mattermost/docs/issues/6727) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 💪 Opened PR [#17](https://github.com/Rutam21/learn/pull/17) in [Rutam21/learn](https://github.com/Rutam21/learn)
+2. 💪 Opened PR [#156](https://github.com/Rutam21/medusa/pull/156) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 </details>
 
