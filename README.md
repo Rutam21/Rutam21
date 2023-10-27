@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/Rutam21/medusa/pull/157) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 🗣 Commented on [#671](https://github.com/triggerdotdev/trigger.dev/issues/671) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+1. 💪 Opened PR [#57](https://github.com/Rutam21/chaos-mesh/pull/57) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
+2. 💪 Opened PR [#157](https://github.com/Rutam21/medusa/pull/157) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 </details>
 
