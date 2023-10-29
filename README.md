@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6749](https://github.com/mattermost/docs/pull/6749) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#2720](https://github.com/juspay/hyperswitch/issues/2720) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 💪 Opened PR [#6750](https://github.com/mattermost/docs/pull/6750) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#6749](https://github.com/mattermost/docs/pull/6749) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
