@@ -89,11 +89,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Database GitOps with Bytebase for MySQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-mysql-45b3)
+- [Database GitOps with Bytebase for PostgreSQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-postgresql-104h)
 - [Building an Instill AI Pipeline in 5 minutes](https://dev.to/rutamhere/building-an-instill-ai-pipeline-in-5-minutes-4fp2)
 - [Deploying DocsGPT on Civo Compute](https://dev.to/rutamhere/deploying-docsgpt-on-civo-compute-c)
 - [Predict Sales of Manufacturing with MindsDB using Java](https://dev.to/rutamhere/predict-sales-of-manufacturing-with-mindsdb-using-java-1j6b)
-- [Introducing MindsDB Playground: Your all-in-one MindsDB Companion App](https://dev.to/rutamhere/introducing-mindsdb-playground-your-all-in-one-mindsdb-companion-app-1hgo)
-- [Exploring Timeseries Forecasting with MindsDB and YugabyteDB](https://rpmwrites.hashnode.dev/exploring-timeseries-forecasting-with-mindsdb-and-yugabytedb)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
