@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2282](https://github.com/juspay/hyperswitch/issues/2282) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 🗣 Commented on [#3999](https://github.com/appwrite/appwrite/issues/3999) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#2720](https://github.com/juspay/hyperswitch/issues/2720) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 🗣 Commented on [#2282](https://github.com/juspay/hyperswitch/issues/2282) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
