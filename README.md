@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2747](https://github.com/juspay/hyperswitch/issues/2747) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 💪 Opened PR [#2747](https://github.com/juspay/hyperswitch/pull/2747) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 🗣 Commented on [#2748](https://github.com/juspay/hyperswitch/issues/2748) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 💪 Opened PR [#2748](https://github.com/juspay/hyperswitch/pull/2748) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
