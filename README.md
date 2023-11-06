@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Rutam21/abuse/pull/10) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
-2. 💪 Opened PR [#22](https://github.com/Rutam21/mindsdb/pull/22) in [Rutam21/mindsdb](https://github.com/Rutam21/mindsdb)
+1. 🗣 Commented on [#764](https://github.com/arc53/DocsGPT/issues/764) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+2. 💪 Opened PR [#764](https://github.com/arc53/DocsGPT/pull/764) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
 <!--END_SECTION:activity-->
 </details>
 
