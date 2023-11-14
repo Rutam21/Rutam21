@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/Rutam21/earthly/pull/39) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 🗣 Commented on [#764](https://github.com/arc53/DocsGPT/issues/764) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+1. 💪 Opened PR [#39](https://github.com/Rutam21/k6-docs/pull/39) in [Rutam21/k6-docs](https://github.com/Rutam21/k6-docs)
+2. 💪 Opened PR [#39](https://github.com/Rutam21/earthly/pull/39) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 </details>
 
