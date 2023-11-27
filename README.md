@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Rutam21/js-song-generator/pull/9) in [Rutam21/js-song-generator](https://github.com/Rutam21/js-song-generator)
-2. 💪 Opened PR [#1434](https://github.com/Rutam21/gatsby/pull/1434) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#1437](https://github.com/Rutam21/gatsby/pull/1437) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#1436](https://github.com/Rutam21/gatsby/pull/1436) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
