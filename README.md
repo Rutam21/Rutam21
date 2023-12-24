@@ -89,11 +89,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sentiment Analysis App using Gemini](https://dev.to/rutamhere/sentiment-analysis-app-using-gemini-ahp)
 - [4th Time Hacktoberfest Contributor](https://dev.to/rutamhere/4th-time-contributor-5em1)
 - [Deploying DocsGPT on DigitalOcean Droplet](https://dev.to/rutamhere/deploying-docsgpt-on-digitalocean-droplet-50ea)
 - [Database GitOps with Bytebase for MySQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-mysql-45b3)
 - [Database GitOps with Bytebase for PostgreSQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-postgresql-104h)
-- [Building an Instill AI Pipeline in 5 minutes](https://dev.to/rutamhere/building-an-instill-ai-pipeline-in-5-minutes-4fp2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
