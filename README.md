@@ -89,11 +89,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying MindsDB on Linode](https://dev.to/rutamhere/deploying-mindsdb-on-linode-jh8)
 - [Deploying DocsGPT on Kamatera Performance Cloud](https://dev.to/rutamhere/deploying-docsgpt-on-kamatera-performance-cloud-1bj)
 - [Sentiment Analysis App using Gemini](https://dev.to/rutamhere/sentiment-analysis-app-using-gemini-ahp)
 - [4th Time Hacktoberfest Contributor](https://dev.to/rutamhere/4th-time-contributor-5em1)
 - [Deploying DocsGPT on DigitalOcean Droplet](https://dev.to/rutamhere/deploying-docsgpt-on-digitalocean-droplet-50ea)
-- [Database GitOps with Bytebase for MySQL](https://dev.to/rutamhere/database-gitops-with-bytebase-for-mysql-45b3)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
