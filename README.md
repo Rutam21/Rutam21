@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1739](https://github.com/Rutam21/gatsby/pull/1739) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#249](https://github.com/Rutam21/medusa/pull/249) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+1. 🗣 Commented on [#611](https://github.com/arc53/DocsGPT/issues/611) in [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
+2. 💪 Opened PR [#1739](https://github.com/Rutam21/gatsby/pull/1739) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
