@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/Rutam21/earthly/pull/43) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#1773](https://github.com/Rutam21/gatsby/pull/1773) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 🗣 Commented on [#1329](https://github.com/mattermost/mattermost-developer-documentation/issues/1329) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 💪 Opened PR [#1329](https://github.com/mattermost/mattermost-developer-documentation/pull/1329) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 </details>
 
