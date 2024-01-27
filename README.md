@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/Rutam21/chaos-mesh/pull/64) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
-2. 💪 Opened PR [#72](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/72) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 💪 Opened PR [#21](https://github.com/Rutam21/appwrite/pull/21) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
+2. 💪 Opened PR [#22](https://github.com/Rutam21/abuse/pull/22) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
 <!--END_SECTION:activity-->
 </details>
 
