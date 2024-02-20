@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/Rutam21/amplication/pull/97) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
-2. 🗣 Commented on [#8788](https://github.com/mindsdb/mindsdb/issues/8788) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#22](https://github.com/Rutam21/appwrite/pull/22) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
+2. 💪 Opened PR [#40](https://github.com/Rutam21/k6/pull/40) in [Rutam21/k6](https://github.com/Rutam21/k6)
 <!--END_SECTION:activity-->
 </details>
 
