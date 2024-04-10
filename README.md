@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1954](https://github.com/Rutam21/gatsby/pull/1954) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#13](https://github.com/Rutam21/website/pull/13) in [Rutam21/website](https://github.com/Rutam21/website)
+1. 💪 Opened PR [#547](https://github.com/dapr/go-sdk/pull/547) in [dapr/go-sdk](https://github.com/dapr/go-sdk)
+2. 🗣 Commented on [#7685](https://github.com/dapr/dapr/issues/7685) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 </details>
 
