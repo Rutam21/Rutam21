@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3396](https://github.com/dapr/components-contrib/issues/3396) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
-2. 💪 Opened PR [#3396](https://github.com/dapr/components-contrib/pull/3396) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
+1. 🗣 Commented on [#1005](https://github.com/dapr/quickstarts/issues/1005) in [dapr/quickstarts](https://github.com/dapr/quickstarts)
+2. 💪 Opened PR [#1005](https://github.com/dapr/quickstarts/pull/1005) in [dapr/quickstarts](https://github.com/dapr/quickstarts)
 <!--END_SECTION:activity-->
 </details>
 
