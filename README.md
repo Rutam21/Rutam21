@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#547](https://github.com/dapr/go-sdk/issues/547) in [dapr/go-sdk](https://github.com/dapr/go-sdk)
-2. 💪 Opened PR [#547](https://github.com/dapr/go-sdk/pull/547) in [dapr/go-sdk](https://github.com/dapr/go-sdk)
+1. 🗣 Commented on [#3396](https://github.com/dapr/components-contrib/issues/3396) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
+2. 💪 Opened PR [#3396](https://github.com/dapr/components-contrib/pull/3396) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
 <!--END_SECTION:activity-->
 </details>
 
