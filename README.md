@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1005](https://github.com/dapr/quickstarts/issues/1005) in [dapr/quickstarts](https://github.com/dapr/quickstarts)
-2. 💪 Opened PR [#1005](https://github.com/dapr/quickstarts/pull/1005) in [dapr/quickstarts](https://github.com/dapr/quickstarts)
+1. 💪 Opened PR [#82](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/82) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+2. 💪 Opened PR [#292](https://github.com/Rutam21/medusa/pull/292) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 </details>
 
