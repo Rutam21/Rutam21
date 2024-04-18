@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7685](https://github.com/dapr/dapr/issues/7685) in [dapr/dapr](https://github.com/dapr/dapr)
-2. 💪 Opened PR [#19](https://github.com/Rutam21/react-ultimate-resume/pull/19) in [Rutam21/react-ultimate-resume](https://github.com/Rutam21/react-ultimate-resume)
+1. 🗣 Commented on [#7052](https://github.com/mattermost/docs/issues/7052) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#7059](https://github.com/mattermost/docs/issues/7059) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
