@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6653](https://github.com/mattermost/docs/issues/6653) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#28](https://github.com/Rutam21/questdb.io/pull/28) in [Rutam21/questdb.io](https://github.com/Rutam21/questdb.io)
+1. 🗣 Commented on [#7104](https://github.com/mattermost/docs/issues/7104) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#7104](https://github.com/mattermost/docs/pull/7104) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
