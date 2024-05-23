@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Rutam21/questdb.io/pull/31) in [Rutam21/questdb.io](https://github.com/Rutam21/questdb.io)
-2. 💪 Opened PR [#21](https://github.com/Rutam21/stepzen-spacex-graphql/pull/21) in [Rutam21/stepzen-spacex-graphql](https://github.com/Rutam21/stepzen-spacex-graphql)
+1. 💪 Opened PR [#30](https://github.com/Rutam21/Meme-Maker/pull/30) in [Rutam21/Meme-Maker](https://github.com/Rutam21/Meme-Maker)
+2. 💪 Opened PR [#71](https://github.com/Rutam21/chaos-mesh/pull/71) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
 <!--END_SECTION:activity-->
 </details>
 
