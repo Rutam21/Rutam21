@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/Rutam21/earthly/pull/56) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#55](https://github.com/Rutam21/earthly/pull/55) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+1. 💪 Opened PR [#2201](https://github.com/Rutam21/gatsby/pull/2201) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#55](https://github.com/Rutam21/engineering-portal/pull/55) in [Rutam21/engineering-portal](https://github.com/Rutam21/engineering-portal)
 <!--END_SECTION:activity-->
 </details>
 
