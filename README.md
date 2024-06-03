@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2213](https://github.com/Rutam21/gatsby/pull/2213) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#77](https://github.com/Rutam21/chaos-mesh/pull/77) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
+1. 🗣 Commented on [#9](https://github.com/robusta-dev/holmesgpt/issues/9) in [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt)
+2. 💪 Opened PR [#9](https://github.com/robusta-dev/holmesgpt/pull/9) in [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt)
 <!--END_SECTION:activity-->
 </details>
 
