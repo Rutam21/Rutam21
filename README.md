@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/robusta-dev/holmesgpt/issues/9) in [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt)
-2. 💪 Opened PR [#9](https://github.com/robusta-dev/holmesgpt/pull/9) in [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt)
+1. 💪 Opened PR [#328](https://github.com/Rutam21/medusa/pull/328) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 💪 Opened PR [#36](https://github.com/Rutam21/Meme-Maker/pull/36) in [Rutam21/Meme-Maker](https://github.com/Rutam21/Meme-Maker)
 <!--END_SECTION:activity-->
 </details>
 
