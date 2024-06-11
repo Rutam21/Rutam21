@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#362](https://github.com/Rutam21/medusa/pull/362) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#2260](https://github.com/Rutam21/gatsby/pull/2260) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#364](https://github.com/Rutam21/medusa/pull/364) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 💪 Opened PR [#363](https://github.com/Rutam21/medusa/pull/363) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 </details>
 
