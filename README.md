@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27418](https://github.com/mattermost/mattermost/issues/27418) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-2. 💪 Opened PR [#2572](https://github.com/Rutam21/gatsby/pull/2572) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 🗣 Commented on [#27418](https://github.com/mattermost/mattermost/issues/27418) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 <!--END_SECTION:activity-->
 </details>
 
