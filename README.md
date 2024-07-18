@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/DagsHub/3D-model-datasets/issues/17) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
-2. 💪 Opened PR [#86](https://github.com/Rutam21/kratos/pull/86) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
+1. 🗣 Commented on [#1005](https://github.com/dapr/quickstarts/issues/1005) in [dapr/quickstarts](https://github.com/dapr/quickstarts)
+2. 🗣 Commented on [#17](https://github.com/DagsHub/3D-model-datasets/issues/17) in [DagsHub/3D-model-datasets](https://github.com/DagsHub/3D-model-datasets)
 <!--END_SECTION:activity-->
 </details>
 
