@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/Rutam21/kratos/pull/87) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
-2. 🗣 Commented on [#1005](https://github.com/dapr/quickstarts/issues/1005) in [dapr/quickstarts](https://github.com/dapr/quickstarts)
+1. 💪 Opened PR [#99](https://github.com/Rutam21/earthly/pull/99) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
+2. 💪 Opened PR [#554](https://github.com/Rutam21/medusa/pull/554) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
 <!--END_SECTION:activity-->
 </details>
 
