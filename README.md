@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28652](https://github.com/mattermost/mattermost/issues/28652) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-2. 🗣 Commented on [#7466](https://github.com/mattermost/docs/issues/7466) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#7711](https://github.com/aquasecurity/trivy/issues/7711) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. 🗣 Commented on [#28652](https://github.com/mattermost/mattermost/issues/28652) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 <!--END_SECTION:activity-->
 </details>
 
