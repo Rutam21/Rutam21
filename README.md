@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7733](https://github.com/aquasecurity/trivy/pull/7733) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. 💪 Opened PR [#11](https://github.com/Rutam21/livestream-demo/pull/11) in [Rutam21/livestream-demo](https://github.com/Rutam21/livestream-demo)
+1. 🗣 Commented on [#7463](https://github.com/mattermost/docs/issues/7463) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#7733](https://github.com/aquasecurity/trivy/pull/7733) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
 </details>
 
