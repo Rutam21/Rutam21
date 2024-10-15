@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#769](https://github.com/Rutam21/medusa/pull/769) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#117](https://github.com/Rutam21/kratos/pull/117) in [Rutam21/kratos](https://github.com/Rutam21/kratos)
+1. 🗣 Commented on [#4682](https://github.com/juspay/hyperswitch/issues/4682) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 🗣 Commented on [#4672](https://github.com/juspay/hyperswitch/issues/4672) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
