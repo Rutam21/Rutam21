@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4682](https://github.com/juspay/hyperswitch/issues/4682) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 🗣 Commented on [#4672](https://github.com/juspay/hyperswitch/issues/4672) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 🗣 Commented on [#7733](https://github.com/aquasecurity/trivy/issues/7733) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. 🗣 Commented on [#4682](https://github.com/juspay/hyperswitch/issues/4682) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
