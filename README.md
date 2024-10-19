@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/Rutam21/stepzen-spacex-graphql/pull/29) in [Rutam21/stepzen-spacex-graphql](https://github.com/Rutam21/stepzen-spacex-graphql)
-2. 💪 Opened PR [#770](https://github.com/Rutam21/medusa/pull/770) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+1. 🗣 Commented on [#7501](https://github.com/mattermost/docs/issues/7501) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#29](https://github.com/Rutam21/stepzen-spacex-graphql/pull/29) in [Rutam21/stepzen-spacex-graphql](https://github.com/Rutam21/stepzen-spacex-graphql)
 <!--END_SECTION:activity-->
 </details>
 
