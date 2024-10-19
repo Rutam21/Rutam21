@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7501](https://github.com/mattermost/docs/issues/7501) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#29](https://github.com/Rutam21/stepzen-spacex-graphql/pull/29) in [Rutam21/stepzen-spacex-graphql](https://github.com/Rutam21/stepzen-spacex-graphql)
+1. 🗣 Commented on [#28732](https://github.com/mattermost/mattermost/issues/28732) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+2. 🗣 Commented on [#7501](https://github.com/mattermost/docs/issues/7501) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
