@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3000](https://github.com/Rutam21/gatsby/pull/3000) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 🗣 Commented on [#28772](https://github.com/mattermost/mattermost/issues/28772) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+1. 💪 Opened PR [#3004](https://github.com/Rutam21/gatsby/pull/3004) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#36](https://github.com/Rutam21/HackToons/pull/36) in [Rutam21/HackToons](https://github.com/Rutam21/HackToons)
 <!--END_SECTION:activity-->
 </details>
 
