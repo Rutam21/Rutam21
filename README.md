@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7505](https://github.com/mattermost/docs/issues/7505) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#7491](https://github.com/mattermost/docs/issues/7491) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 💪 Opened PR [#3005](https://github.com/Rutam21/gatsby/pull/3005) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 🗣 Commented on [#7505](https://github.com/mattermost/docs/issues/7505) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
