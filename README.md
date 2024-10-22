@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/Rutam21/engineering-portal/pull/84) in [Rutam21/engineering-portal](https://github.com/Rutam21/engineering-portal)
-2. 💪 Opened PR [#3008](https://github.com/Rutam21/gatsby/pull/3008) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 🗣 Commented on [#28865](https://github.com/mattermost/mattermost/issues/28865) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+2. 💪 Opened PR [#84](https://github.com/Rutam21/engineering-portal/pull/84) in [Rutam21/engineering-portal](https://github.com/Rutam21/engineering-portal)
 <!--END_SECTION:activity-->
 </details>
 
