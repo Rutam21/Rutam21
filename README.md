@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2289](https://github.com/keephq/keep/issues/2289) in [keephq/keep](https://github.com/keephq/keep)
-2. 💪 Opened PR [#2288](https://github.com/keephq/keep/pull/2288) in [keephq/keep](https://github.com/keephq/keep)
+1. 🗣 Commented on [#2295](https://github.com/keephq/keep/issues/2295) in [keephq/keep](https://github.com/keephq/keep)
+2. 🗣 Commented on [#2295](https://github.com/keephq/keep/issues/2295) in [keephq/keep](https://github.com/keephq/keep)
 <!--END_SECTION:activity-->
 </details>
 
