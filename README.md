@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2295](https://github.com/keephq/keep/issues/2295) in [keephq/keep](https://github.com/keephq/keep)
-2. 🗣 Commented on [#2298](https://github.com/keephq/keep/issues/2298) in [keephq/keep](https://github.com/keephq/keep)
+1. 🗣 Commented on [#2748](https://github.com/juspay/hyperswitch/issues/2748) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 🗣 Commented on [#6432](https://github.com/juspay/hyperswitch/issues/6432) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
