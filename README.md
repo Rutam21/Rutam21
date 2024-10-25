@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#621](https://github.com/apify/crawlee-python/issues/621) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
-2. 💪 Opened PR [#621](https://github.com/apify/crawlee-python/pull/621) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
+1. 🗣 Commented on [#622](https://github.com/apify/crawlee-python/issues/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
+2. 💪 Opened PR [#622](https://github.com/apify/crawlee-python/pull/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
 <!--END_SECTION:activity-->
 </details>
 
