@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7733](https://github.com/aquasecurity/trivy/issues/7733) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. 🗣 Commented on [#2748](https://github.com/juspay/hyperswitch/issues/2748) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 💪 Opened PR [#3032](https://github.com/Rutam21/gatsby/pull/3032) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 🗣 Commented on [#7733](https://github.com/aquasecurity/trivy/issues/7733) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
 </details>
 
