@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2295](https://github.com/keephq/keep/issues/2295) in [keephq/keep](https://github.com/keephq/keep)
-2. 🗣 Commented on [#2295](https://github.com/keephq/keep/issues/2295) in [keephq/keep](https://github.com/keephq/keep)
+2. 🗣 Commented on [#2298](https://github.com/keephq/keep/issues/2298) in [keephq/keep](https://github.com/keephq/keep)
 <!--END_SECTION:activity-->
 </details>
 
