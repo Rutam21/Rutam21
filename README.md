@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#622](https://github.com/apify/crawlee-python/issues/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
-2. 💪 Opened PR [#622](https://github.com/apify/crawlee-python/pull/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
+1. 💪 Opened PR [#1064](https://github.com/llmware-ai/llmware/pull/1064) in [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+2. 💪 Opened PR [#815](https://github.com/CopilotKit/CopilotKit/pull/815) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 <!--END_SECTION:activity-->
 </details>
 
