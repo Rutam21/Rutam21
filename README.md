@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1064](https://github.com/llmware-ai/llmware/issues/1064) in [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
-2. 💪 Opened PR [#1064](https://github.com/llmware-ai/llmware/pull/1064) in [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
+1. 🗣 Commented on [#815](https://github.com/CopilotKit/CopilotKit/issues/815) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+2. 💪 Opened PR [#817](https://github.com/CopilotKit/CopilotKit/pull/817) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 <!--END_SECTION:activity-->
 </details>
 
