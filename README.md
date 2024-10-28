@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9787](https://github.com/mindsdb/mindsdb/issues/9787) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#6432](https://github.com/juspay/hyperswitch/issues/6432) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 🗣 Commented on [#10065](https://github.com/mindsdb/mindsdb/issues/10065) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#9787](https://github.com/mindsdb/mindsdb/issues/9787) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 </details>
 
