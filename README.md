@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2297](https://github.com/keephq/keep/issues/2297) in [keephq/keep](https://github.com/keephq/keep)
-2. 💪 Opened PR [#3062](https://github.com/Rutam21/gatsby/pull/3062) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 🗣 Commented on [#10044](https://github.com/mindsdb/mindsdb/issues/10044) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#3067](https://github.com/Rutam21/gatsby/pull/3067) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
