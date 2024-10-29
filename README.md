@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10064](https://github.com/mindsdb/mindsdb/issues/10064) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#10065](https://github.com/mindsdb/mindsdb/issues/10065) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#621](https://github.com/apify/crawlee-python/issues/621) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
+2. 🗣 Commented on [#622](https://github.com/apify/crawlee-python/issues/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
 <!--END_SECTION:activity-->
 </details>
 
