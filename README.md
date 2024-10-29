@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#817](https://github.com/CopilotKit/CopilotKit/issues/817) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-2. 🗣 Commented on [#9869](https://github.com/mindsdb/mindsdb/issues/9869) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#9935](https://github.com/mindsdb/mindsdb/issues/9935) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#817](https://github.com/CopilotKit/CopilotKit/issues/817) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 <!--END_SECTION:activity-->
 </details>
 
