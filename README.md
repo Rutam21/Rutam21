@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10063](https://github.com/mindsdb/mindsdb/issues/10063) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#7733](https://github.com/aquasecurity/trivy/issues/7733) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. 🗣 Commented on [#10063](https://github.com/mindsdb/mindsdb/issues/10063) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 </details>
 
