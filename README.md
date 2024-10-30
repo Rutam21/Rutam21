@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3084](https://github.com/Rutam21/gatsby/pull/3084) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#3083](https://github.com/Rutam21/gatsby/pull/3083) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 🗣 Commented on [#10079](https://github.com/mindsdb/mindsdb/issues/10079) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 💪 Opened PR [#3084](https://github.com/Rutam21/gatsby/pull/3084) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
