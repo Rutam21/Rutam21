@@ -111,7 +111,7 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10063](https://github.com/mindsdb/mindsdb/issues/10063) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 🗣 Commented on [#10080](https://github.com/mindsdb/mindsdb/issues/10080) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 2. 🗣 Commented on [#10063](https://github.com/mindsdb/mindsdb/issues/10063) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 </details>
