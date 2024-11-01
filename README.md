@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7525](https://github.com/mattermost/docs/issues/7525) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#622](https://github.com/apify/crawlee-python/issues/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
+1. 🗣 Commented on [#7526](https://github.com/mattermost/docs/issues/7526) in [mattermost/docs](https://github.com/mattermost/docs)
+2. ❗️ Opened issue [#7526](https://github.com/mattermost/docs/issues/7526) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
