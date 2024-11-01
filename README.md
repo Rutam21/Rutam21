@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6426](https://github.com/juspay/hyperswitch/issues/6426) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 🗣 Commented on [#6432](https://github.com/juspay/hyperswitch/issues/6432) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 🗣 Commented on [#622](https://github.com/apify/crawlee-python/issues/622) in [apify/crawlee-python](https://github.com/apify/crawlee-python)
+2. 🗣 Commented on [#7525](https://github.com/mattermost/docs/issues/7525) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
