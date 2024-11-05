@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7546](https://github.com/mattermost/docs/issues/7546) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#7546](https://github.com/mattermost/docs/pull/7546) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 🗣 Commented on [#7547](https://github.com/mattermost/docs/issues/7547) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
