@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7573](https://github.com/mattermost/docs/issues/7573) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 💪 Opened PR [#7573](https://github.com/mattermost/docs/pull/7573) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#7574](https://github.com/mattermost/docs/issues/7574) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#7574](https://github.com/mattermost/docs/pull/7574) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
