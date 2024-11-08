@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7565](https://github.com/mattermost/docs/issues/7565) in [mattermost/docs](https://github.com/mattermost/docs)
-2. ❗️ Opened issue [#7565](https://github.com/mattermost/docs/issues/7565) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#7567](https://github.com/mattermost/docs/issues/7567) in [mattermost/docs](https://github.com/mattermost/docs)
+2. ❗️ Opened issue [#7567](https://github.com/mattermost/docs/issues/7567) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
