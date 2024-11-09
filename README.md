@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4679](https://github.com/juspay/hyperswitch/issues/4679) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
-2. 🗣 Commented on [#6520](https://github.com/juspay/hyperswitch/issues/6520) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 🗣 Commented on [#2318](https://github.com/juspay/hyperswitch/issues/2318) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 <!--END_SECTION:activity-->
 </details>
 
