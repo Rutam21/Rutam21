@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3133](https://github.com/Rutam21/gatsby/pull/3133) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#3132](https://github.com/Rutam21/gatsby/pull/3132) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 🗣 Commented on [#6426](https://github.com/juspay/hyperswitch/issues/6426) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+2. 💪 Opened PR [#3133](https://github.com/Rutam21/gatsby/pull/3133) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
