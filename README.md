@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7566](https://github.com/mattermost/docs/issues/7566) in [mattermost/docs](https://github.com/mattermost/docs)
-2. 🗣 Commented on [#4679](https://github.com/juspay/hyperswitch/issues/4679) in [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+1. 🗣 Commented on [#7578](https://github.com/mattermost/docs/issues/7578) in [mattermost/docs](https://github.com/mattermost/docs)
+2. ❗️ Opened issue [#7578](https://github.com/mattermost/docs/issues/7578) in [mattermost/docs](https://github.com/mattermost/docs)
 <!--END_SECTION:activity-->
 </details>
 
