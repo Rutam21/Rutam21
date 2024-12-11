@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Rutam21/appwrite/pull/36) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
-2. 💪 Opened PR [#108](https://github.com/Rutam21/chaos-mesh/pull/108) in [Rutam21/chaos-mesh](https://github.com/Rutam21/chaos-mesh)
+1. 🗣 Commented on [#7652](https://github.com/mattermost/docs/issues/7652) in [mattermost/docs](https://github.com/mattermost/docs)
+2. 💪 Opened PR [#36](https://github.com/Rutam21/appwrite/pull/36) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
 <!--END_SECTION:activity-->
 </details>
 
