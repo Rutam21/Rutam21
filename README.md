@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/Rutam21/layer0-nextjs-example/pull/16) in [Rutam21/layer0-nextjs-example](https://github.com/Rutam21/layer0-nextjs-example)
-2. 💪 Opened PR [#113](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/113) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+1. 💪 Opened PR [#38](https://github.com/Rutam21/abuse/pull/38) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
+2. 💪 Opened PR [#66](https://github.com/Rutam21/opni/pull/66) in [Rutam21/opni](https://github.com/Rutam21/opni)
 <!--END_SECTION:activity-->
 </details>
 
