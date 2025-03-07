@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3348](https://github.com/Rutam21/gatsby/pull/3348) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
-2. 💪 Opened PR [#42](https://github.com/Rutam21/abuse/pull/42) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
+1. 💪 Opened PR [#41](https://github.com/Rutam21/appwrite/pull/41) in [Rutam21/appwrite](https://github.com/Rutam21/appwrite)
+2. 💪 Opened PR [#18](https://github.com/Rutam21/novatorem/pull/18) in [Rutam21/novatorem](https://github.com/Rutam21/novatorem)
 <!--END_SECTION:activity-->
 </details>
 
