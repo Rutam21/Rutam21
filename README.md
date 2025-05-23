@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/Rutam21/devtron/pull/83) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
-2. 💪 Opened PR [#19](https://github.com/Rutam21/layer0-nextjs-example/pull/19) in [Rutam21/layer0-nextjs-example](https://github.com/Rutam21/layer0-nextjs-example)
+1. 💪 Opened PR [#26](https://github.com/Rutam21/learn/pull/26) in [Rutam21/learn](https://github.com/Rutam21/learn)
+2. 💪 Opened PR [#13](https://github.com/Rutam21/livestream-demo/pull/13) in [Rutam21/livestream-demo](https://github.com/Rutam21/livestream-demo)
 <!--END_SECTION:activity-->
 </details>
 
