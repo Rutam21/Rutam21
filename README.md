@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com/Rutam21/earthly/pull/141) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
-2. 💪 Opened PR [#32](https://github.com/Rutam21/react-ultimate-resume/pull/32) in [Rutam21/react-ultimate-resume](https://github.com/Rutam21/react-ultimate-resume)
+1. 💪 Opened PR [#20](https://github.com/Rutam21/layer0-nextjs-example/pull/20) in [Rutam21/layer0-nextjs-example](https://github.com/Rutam21/layer0-nextjs-example)
+2. 💪 Opened PR [#141](https://github.com/Rutam21/earthly/pull/141) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 </details>
 
