@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/Rutam21/learn/pull/28) in [Rutam21/learn](https://github.com/Rutam21/learn)
-2. 💪 Opened PR [#4136](https://github.com/Rutam21/gatsby/pull/4136) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#8](https://github.com/Rutam21/lightwood/pull/8) in [Rutam21/lightwood](https://github.com/Rutam21/lightwood)
+2. 💪 Opened PR [#28](https://github.com/Rutam21/learn/pull/28) in [Rutam21/learn](https://github.com/Rutam21/learn)
 <!--END_SECTION:activity-->
 </details>
 
