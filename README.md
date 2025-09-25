@@ -112,7 +112,7 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#939](https://github.com/Rutam21/medusa/pull/939) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
-2. 💪 Opened PR [#4220](https://github.com/Rutam21/gatsby/pull/4220) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+2. 💪 Opened PR [#4221](https://github.com/Rutam21/gatsby/pull/4221) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
 <!--END_SECTION:activity-->
 </details>
 
