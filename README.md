@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/Rutam21/abuse/pull/56) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
-2. 💪 Opened PR [#4223](https://github.com/Rutam21/gatsby/pull/4223) in [Rutam21/gatsby](https://github.com/Rutam21/gatsby)
+1. 💪 Opened PR [#34](https://github.com/Rutam21/stepzen-spacex-graphql/pull/34) in [Rutam21/stepzen-spacex-graphql](https://github.com/Rutam21/stepzen-spacex-graphql)
+2. 💪 Opened PR [#56](https://github.com/Rutam21/abuse/pull/56) in [Rutam21/abuse](https://github.com/Rutam21/abuse)
 <!--END_SECTION:activity-->
 </details>
 
