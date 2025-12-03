@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Rutam21/demo-todo-with-angular/pull/8) in [Rutam21/demo-todo-with-angular](https://github.com/Rutam21/demo-todo-with-angular)
-2. 💪 Opened PR [#122](https://github.com/Rutam21/k6-docs/pull/122) in [Rutam21/k6-docs](https://github.com/Rutam21/k6-docs)
+1. 💪 Opened PR [#960](https://github.com/Rutam21/medusa/pull/960) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+2. 💪 Opened PR [#150](https://github.com/Rutam21/earthly/pull/150) in [Rutam21/earthly](https://github.com/Rutam21/earthly)
 <!--END_SECTION:activity-->
 </details>
 
