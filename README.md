@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/Rutam21/devtron/pull/102) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
-2. 💪 Opened PR [#966](https://github.com/Rutam21/medusa/pull/966) in [Rutam21/medusa](https://github.com/Rutam21/medusa)
+1. 💪 Opened PR [#143](https://github.com/Rutam21/dynamic-localpv-provisioner/pull/143) in [Rutam21/dynamic-localpv-provisioner](https://github.com/Rutam21/dynamic-localpv-provisioner)
+2. 💪 Opened PR [#102](https://github.com/Rutam21/devtron/pull/102) in [Rutam21/devtron](https://github.com/Rutam21/devtron)
 <!--END_SECTION:activity-->
 </details>
 
