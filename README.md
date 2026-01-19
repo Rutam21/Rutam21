@@ -111,8 +111,8 @@
 <summary><h3>Recent GitHub Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/Rutam21/amplication/pull/150) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
-2. 💪 Opened PR [#24](https://github.com/Rutam21/novatorem/pull/24) in [Rutam21/novatorem](https://github.com/Rutam21/novatorem)
+1. 💪 Opened PR [#109](https://github.com/Rutam21/engineering-portal/pull/109) in [Rutam21/engineering-portal](https://github.com/Rutam21/engineering-portal)
+2. 💪 Opened PR [#150](https://github.com/Rutam21/amplication/pull/150) in [Rutam21/amplication](https://github.com/Rutam21/amplication)
 <!--END_SECTION:activity-->
 </details>
 
